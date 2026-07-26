@@ -1,0 +1,45 @@
+{
+  "id": "LU09C06",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Lenningen",
+    "en": "Lenningen",
+    "slug": "lenningen-lu09c06"
+  },
+  "code": {
+    "id": "LU09C06",
+    "iso": null
+  },
+  "parent": {
+    "id": "LU09",
+    "level": 1,
+    "name": {
+      "local": "Remich",
+      "en": "Remich",
+      "slug": "remich-lu09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LU09",
+      "level": 1,
+      "name": {
+        "local": "Remich",
+        "en": "Remich",
+        "slug": "remich-lu09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.599",
+    "lon": "6.368"
+  },
+  "metadata": {},
+  "source": {}
+}

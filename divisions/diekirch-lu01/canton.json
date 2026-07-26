@@ -1,0 +1,33 @@
+{
+  "id": "LU01",
+  "level": 1,
+  "level_name": {
+    "local": "Canton",
+    "en": "Canton"
+  },
+  "name": {
+    "local": "Diekirch",
+    "en": "Diekirch",
+    "slug": "diekirch-lu01"
+  },
+  "code": {
+    "id": "LU01",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.959",
+    "lon": "5.974"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lu/cantons/diekirch-lu01/",
+    "api": "https://openadmindata.org/api/lu/"
+  }
+}

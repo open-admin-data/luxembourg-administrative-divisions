@@ -1,0 +1,45 @@
+{
+  "id": "LU02C06",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Mertert",
+    "en": "Mertert",
+    "slug": "mertert-lu02c06"
+  },
+  "code": {
+    "id": "LU02C06",
+    "iso": null
+  },
+  "parent": {
+    "id": "LU02",
+    "level": 1,
+    "name": {
+      "local": "Grevenmacher",
+      "en": "Grevenmacher",
+      "slug": "grevenmacher-lu02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LU02",
+      "level": 1,
+      "name": {
+        "local": "Grevenmacher",
+        "en": "Grevenmacher",
+        "slug": "grevenmacher-lu02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.717",
+    "lon": "6.476"
+  },
+  "metadata": {},
+  "source": {}
+}

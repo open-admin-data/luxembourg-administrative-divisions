@@ -1,0 +1,45 @@
+{
+  "id": "LU08C03",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Heffingen",
+    "en": "Heffingen",
+    "slug": "heffingen-lu08c03"
+  },
+  "code": {
+    "id": "LU08C03",
+    "iso": null
+  },
+  "parent": {
+    "id": "LU08",
+    "level": 1,
+    "name": {
+      "local": "Mersch",
+      "en": "Mersch",
+      "slug": "mersch-lu08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LU08",
+      "level": 1,
+      "name": {
+        "local": "Mersch",
+        "en": "Mersch",
+        "slug": "mersch-lu08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.763",
+    "lon": "6.241"
+  },
+  "metadata": {},
+  "source": {}
+}

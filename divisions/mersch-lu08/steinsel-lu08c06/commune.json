@@ -1,0 +1,45 @@
+{
+  "id": "LU08C06",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Steinsel",
+    "en": "Steinsel",
+    "slug": "steinsel-lu08c06"
+  },
+  "code": {
+    "id": "LU08C06",
+    "iso": null
+  },
+  "parent": {
+    "id": "LU08",
+    "level": 1,
+    "name": {
+      "local": "Mersch",
+      "en": "Mersch",
+      "slug": "mersch-lu08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LU08",
+      "level": 1,
+      "name": {
+        "local": "Mersch",
+        "en": "Mersch",
+        "slug": "mersch-lu08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.677",
+    "lon": "6.124"
+  },
+  "metadata": {},
+  "source": {}
+}

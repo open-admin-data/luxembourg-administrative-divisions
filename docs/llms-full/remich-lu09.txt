@@ -1,0 +1,79 @@
+# Remich — Luxembourg Administrative Divisions
+
+> 14 communes
+> Code: LU09
+> Coordinates: 49.539, 6.312
+> Last updated: 2026-07-26. License: CC-BY-4.0.
+
+## Communes
+
+### Bous
+
+Code: LU09C04, Coordinates: 49.554, 6.329
+
+
+### Contern
+
+Code: LU09C14, Coordinates: 49.588, 6.244
+
+
+### Dalheim
+
+Code: LU09C01, Coordinates: 49.541, 6.26
+
+
+### Lenningen
+
+Code: LU09C06, Coordinates: 49.599, 6.368
+
+
+### Mondorf-les-Bains
+
+Code: LU09C10, Coordinates: 49.505, 6.281
+
+
+### Niederanven
+
+Code: LU09C12, Coordinates: 49.648, 6.26
+
+
+### Remich
+
+Code: LU09C07, Coordinates: 49.545, 6.367
+
+
+### Sandweiler
+
+Code: LU09C09, Coordinates: 49.613, 6.219
+
+
+### Schengen
+
+Code: LU09C13, Coordinates: 49.499, 6.338
+
+
+### Schuttrange
+
+Code: LU09C11, Coordinates: 49.621, 6.269
+
+
+### Stadtbredimus
+
+Code: LU09C08, Coordinates: 49.563, 6.364
+
+
+### Waldbredimus
+
+Code: LU09C03, Coordinates: 49.555, 6.288
+
+
+### Weiler-la-Tour
+
+Code: LU09C02, Coordinates: 49.541, 6.201
+
+
+### Wormeldange
+
+Code: LU09C05, Coordinates: 49.608, 6.406
+
+

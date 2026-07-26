@@ -1,0 +1,45 @@
+{
+  "id": "LU11C06",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Putscheid",
+    "en": "Putscheid",
+    "slug": "putscheid-lu11c06"
+  },
+  "code": {
+    "id": "LU11C06",
+    "iso": null
+  },
+  "parent": {
+    "id": "LU11",
+    "level": 1,
+    "name": {
+      "local": "Vianden",
+      "en": "Vianden",
+      "slug": "vianden-lu11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LU11",
+      "level": 1,
+      "name": {
+        "local": "Vianden",
+        "en": "Vianden",
+        "slug": "vianden-lu11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.961",
+    "lon": "6.143"
+  },
+  "metadata": {},
+  "source": {}
+}

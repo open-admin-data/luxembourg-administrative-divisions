@@ -1,0 +1,45 @@
+{
+  "id": "LU11C07",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Tandel",
+    "en": "Tandel",
+    "slug": "tandel-lu11c07"
+  },
+  "code": {
+    "id": "LU11C07",
+    "iso": null
+  },
+  "parent": {
+    "id": "LU11",
+    "level": 1,
+    "name": {
+      "local": "Vianden",
+      "en": "Vianden",
+      "slug": "vianden-lu11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LU11",
+      "level": 1,
+      "name": {
+        "local": "Vianden",
+        "en": "Vianden",
+        "slug": "vianden-lu11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.911",
+    "lon": "6.166"
+  },
+  "metadata": {},
+  "source": {}
+}

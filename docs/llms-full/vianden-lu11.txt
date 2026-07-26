@@ -1,0 +1,44 @@
+# Vianden — Luxembourg Administrative Divisions
+
+> 7 communes
+> Code: LU11
+> Coordinates: 49.933, 6.15
+> Last updated: 2026-07-26. License: CC-BY-4.0.
+
+## Communes
+
+### Bettendorf
+
+Code: LU11C03, Coordinates: 49.877, 6.218
+
+
+### Bourscheid
+
+Code: LU11C02, Coordinates: 49.91, 6.067
+
+
+### Diekirch
+
+Code: LU11C05, Coordinates: 49.917, 6.133
+
+
+### Erpeldange-sur-Sûre
+
+Code: LU11C04, Coordinates: 49.865, 6.115
+
+
+### Putscheid
+
+Code: LU11C06, Coordinates: 49.961, 6.143
+
+
+### Tandel
+
+Code: LU11C07, Coordinates: 49.911, 6.166
+
+
+### Vianden
+
+Code: LU11C01, Coordinates: 49.935, 6.209
+
+

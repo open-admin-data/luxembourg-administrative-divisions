@@ -1,0 +1,45 @@
+{
+  "id": "LU02C05",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Betzdorf",
+    "en": "Betzdorf",
+    "slug": "betzdorf-lu02c05"
+  },
+  "code": {
+    "id": "LU02C05",
+    "iso": null
+  },
+  "parent": {
+    "id": "LU02",
+    "level": 1,
+    "name": {
+      "local": "Grevenmacher",
+      "en": "Grevenmacher",
+      "slug": "grevenmacher-lu02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LU02",
+      "level": 1,
+      "name": {
+        "local": "Grevenmacher",
+        "en": "Grevenmacher",
+        "slug": "grevenmacher-lu02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.683",
+    "lon": "6.35"
+  },
+  "metadata": {},
+  "source": {}
+}

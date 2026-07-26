@@ -1,0 +1,632 @@
+[
+  {
+    "id": "LU08C05",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bissen",
+      "en": "Bissen",
+      "slug": "bissen-lu08c05"
+    },
+    "code": {
+      "id": "LU08C05",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU08",
+      "level": 1,
+      "name": {
+        "local": "Mersch",
+        "en": "Mersch",
+        "slug": "mersch-lu08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU08",
+        "level": 1,
+        "name": {
+          "local": "Mersch",
+          "en": "Mersch",
+          "slug": "mersch-lu08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.788",
+      "lon": "6.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU08C12",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Colmar-Berg",
+      "en": "Colmar-Berg",
+      "slug": "colmar-berg-lu08c12"
+    },
+    "code": {
+      "id": "LU08C12",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU08",
+      "level": 1,
+      "name": {
+        "local": "Mersch",
+        "en": "Mersch",
+        "slug": "mersch-lu08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU08",
+        "level": 1,
+        "name": {
+          "local": "Mersch",
+          "en": "Mersch",
+          "slug": "mersch-lu08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.811",
+      "lon": "6.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU08C08",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ettelbruck",
+      "en": "Ettelbruck",
+      "slug": "ettelbruck-lu08c08"
+    },
+    "code": {
+      "id": "LU08C08",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU08",
+      "level": 1,
+      "name": {
+        "local": "Mersch",
+        "en": "Mersch",
+        "slug": "mersch-lu08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU08",
+        "level": 1,
+        "name": {
+          "local": "Mersch",
+          "en": "Mersch",
+          "slug": "mersch-lu08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.833",
+      "lon": "6.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU08C07",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fischbach",
+      "en": "Fischbach",
+      "slug": "fischbach-lu08c07"
+    },
+    "code": {
+      "id": "LU08C07",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU08",
+      "level": 1,
+      "name": {
+        "local": "Mersch",
+        "en": "Mersch",
+        "slug": "mersch-lu08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU08",
+        "level": 1,
+        "name": {
+          "local": "Mersch",
+          "en": "Mersch",
+          "slug": "mersch-lu08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.74",
+      "lon": "6.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU08C03",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Heffingen",
+      "en": "Heffingen",
+      "slug": "heffingen-lu08c03"
+    },
+    "code": {
+      "id": "LU08C03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU08",
+      "level": 1,
+      "name": {
+        "local": "Mersch",
+        "en": "Mersch",
+        "slug": "mersch-lu08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU08",
+        "level": 1,
+        "name": {
+          "local": "Mersch",
+          "en": "Mersch",
+          "slug": "mersch-lu08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.763",
+      "lon": "6.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU08C13",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Helperknapp",
+      "en": "Helperknapp",
+      "slug": "helperknapp-lu08c13"
+    },
+    "code": {
+      "id": "LU08C13",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU08",
+      "level": 1,
+      "name": {
+        "local": "Mersch",
+        "en": "Mersch",
+        "slug": "mersch-lu08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU08",
+        "level": 1,
+        "name": {
+          "local": "Mersch",
+          "en": "Mersch",
+          "slug": "mersch-lu08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.719",
+      "lon": "6.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU08C10",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Larochette",
+      "en": "Larochette",
+      "slug": "larochette-lu08c10"
+    },
+    "code": {
+      "id": "LU08C10",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU08",
+      "level": 1,
+      "name": {
+        "local": "Mersch",
+        "en": "Mersch",
+        "slug": "mersch-lu08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU08",
+        "level": 1,
+        "name": {
+          "local": "Mersch",
+          "en": "Mersch",
+          "slug": "mersch-lu08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.778",
+      "lon": "6.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU08C04",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lintgen",
+      "en": "Lintgen",
+      "slug": "lintgen-lu08c04"
+    },
+    "code": {
+      "id": "LU08C04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU08",
+      "level": 1,
+      "name": {
+        "local": "Mersch",
+        "en": "Mersch",
+        "slug": "mersch-lu08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU08",
+        "level": 1,
+        "name": {
+          "local": "Mersch",
+          "en": "Mersch",
+          "slug": "mersch-lu08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.716",
+      "lon": "6.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU08C09",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lorentzweiler",
+      "en": "Lorentzweiler",
+      "slug": "lorentzweiler-lu08c09"
+    },
+    "code": {
+      "id": "LU08C09",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU08",
+      "level": 1,
+      "name": {
+        "local": "Mersch",
+        "en": "Mersch",
+        "slug": "mersch-lu08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU08",
+        "level": 1,
+        "name": {
+          "local": "Mersch",
+          "en": "Mersch",
+          "slug": "mersch-lu08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.695",
+      "lon": "6.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU08C02",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mersch",
+      "en": "Mersch",
+      "slug": "mersch-lu08c02"
+    },
+    "code": {
+      "id": "LU08C02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU08",
+      "level": 1,
+      "name": {
+        "local": "Mersch",
+        "en": "Mersch",
+        "slug": "mersch-lu08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU08",
+        "level": 1,
+        "name": {
+          "local": "Mersch",
+          "en": "Mersch",
+          "slug": "mersch-lu08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.749",
+      "lon": "6.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU08C01",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nommern",
+      "en": "Nommern",
+      "slug": "nommern-lu08c01"
+    },
+    "code": {
+      "id": "LU08C01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU08",
+      "level": 1,
+      "name": {
+        "local": "Mersch",
+        "en": "Mersch",
+        "slug": "mersch-lu08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU08",
+        "level": 1,
+        "name": {
+          "local": "Mersch",
+          "en": "Mersch",
+          "slug": "mersch-lu08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.787",
+      "lon": "6.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU08C11",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Schieren",
+      "en": "Schieren",
+      "slug": "schieren-lu08c11"
+    },
+    "code": {
+      "id": "LU08C11",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU08",
+      "level": 1,
+      "name": {
+        "local": "Mersch",
+        "en": "Mersch",
+        "slug": "mersch-lu08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU08",
+        "level": 1,
+        "name": {
+          "local": "Mersch",
+          "en": "Mersch",
+          "slug": "mersch-lu08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.825",
+      "lon": "6.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU08C06",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Steinsel",
+      "en": "Steinsel",
+      "slug": "steinsel-lu08c06"
+    },
+    "code": {
+      "id": "LU08C06",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU08",
+      "level": 1,
+      "name": {
+        "local": "Mersch",
+        "en": "Mersch",
+        "slug": "mersch-lu08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU08",
+        "level": 1,
+        "name": {
+          "local": "Mersch",
+          "en": "Mersch",
+          "slug": "mersch-lu08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.677",
+      "lon": "6.124"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU08C14",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vallée de l'Ernz",
+      "en": "Vallée de l'Ernz",
+      "slug": "vallee-de-l-ernz-lu08c14"
+    },
+    "code": {
+      "id": "LU08C14",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU08",
+      "level": 1,
+      "name": {
+        "local": "Mersch",
+        "en": "Mersch",
+        "slug": "mersch-lu08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU08",
+        "level": 1,
+        "name": {
+          "local": "Mersch",
+          "en": "Mersch",
+          "slug": "mersch-lu08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.822",
+      "lon": "6.223"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

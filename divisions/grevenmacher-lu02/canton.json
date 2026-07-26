@@ -1,0 +1,33 @@
+{
+  "id": "LU02",
+  "level": 1,
+  "level_name": {
+    "local": "Canton",
+    "en": "Canton"
+  },
+  "name": {
+    "local": "Grevenmacher",
+    "en": "Grevenmacher",
+    "slug": "grevenmacher-lu02"
+  },
+  "code": {
+    "id": "LU02",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.732",
+    "lon": "6.354"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lu/cantons/grevenmacher-lu02/",
+    "api": "https://openadmindata.org/api/lu/"
+  }
+}

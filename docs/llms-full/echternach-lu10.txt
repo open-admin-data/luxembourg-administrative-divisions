@@ -1,0 +1,49 @@
+# Echternach — Luxembourg Administrative Divisions
+
+> 8 communes
+> Code: LU10
+> Coordinates: 49.793, 6.358
+> Last updated: 2026-07-26. License: CC-BY-4.0.
+
+## Communes
+
+### Beaufort
+
+Code: LU10C07, Coordinates: 49.836, 6.292
+
+
+### Bech
+
+Code: LU10C05, Coordinates: 49.746, 6.364
+
+
+### Berdorf
+
+Code: LU10C06, Coordinates: 49.814, 6.35
+
+
+### Consdorf
+
+Code: LU10C01, Coordinates: 49.773, 6.338
+
+
+### Echternach
+
+Code: LU10C03, Coordinates: 49.813, 6.422
+
+
+### Reisdorf
+
+Code: LU10C02, Coordinates: 49.869, 6.268
+
+
+### Rosport-Mompach
+
+Code: LU10C08, Coordinates: 49.767, 6.463
+
+
+### Waldbillig
+
+Code: LU10C04, Coordinates: 49.789, 6.287
+
+

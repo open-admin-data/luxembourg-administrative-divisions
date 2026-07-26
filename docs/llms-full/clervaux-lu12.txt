@@ -1,0 +1,34 @@
+# Clervaux — Luxembourg Administrative Divisions
+
+> 5 communes
+> Code: LU12
+> Coordinates: 50.083, 6.03
+> Last updated: 2026-07-26. License: CC-BY-4.0.
+
+## Communes
+
+### Clervaux
+
+Code: LU12C04, Coordinates: 50.054, 6.029
+
+
+### Parc Hosingen
+
+Code: LU12C01, Coordinates: 50.016, 6.091
+
+
+### Troisvierges
+
+Code: LU12C03, Coordinates: 50.121, 5.993
+
+
+### Weiswampach
+
+Code: LU12C02, Coordinates: 50.138, 6.072
+
+
+### Wincrange
+
+Code: LU12C05, Coordinates: 50.075, 5.931
+
+

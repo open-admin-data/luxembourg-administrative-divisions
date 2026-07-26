@@ -1,0 +1,45 @@
+{
+  "id": "LU07C10",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Leudelange",
+    "en": "Leudelange",
+    "slug": "leudelange-lu07c10"
+  },
+  "code": {
+    "id": "LU07C10",
+    "iso": null
+  },
+  "parent": {
+    "id": "LU07",
+    "level": 1,
+    "name": {
+      "local": "Esch-sur-Alzette",
+      "en": "Esch-sur-Alzette",
+      "slug": "esch-sur-alzette-lu07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LU07",
+      "level": 1,
+      "name": {
+        "local": "Esch-sur-Alzette",
+        "en": "Esch-sur-Alzette",
+        "slug": "esch-sur-alzette-lu07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.567",
+    "lon": "6.067"
+  },
+  "metadata": {},
+  "source": {}
+}

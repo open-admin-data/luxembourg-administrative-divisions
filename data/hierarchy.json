@@ -1,0 +1,1396 @@
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/lu/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/luxembourg-administrative-divisions",
+  "data": [
+    {
+      "id": "LU01",
+      "name": {
+        "local": "Diekirch",
+        "en": "Diekirch",
+        "slug": "diekirch-lu01"
+      },
+      "code": {
+        "id": "LU01",
+        "iso": null
+      },
+      "commune": []
+    },
+    {
+      "id": "LU02",
+      "name": {
+        "local": "Grevenmacher",
+        "en": "Grevenmacher",
+        "slug": "grevenmacher-lu02"
+      },
+      "code": {
+        "id": "LU02",
+        "iso": null
+      },
+      "commune": [
+        {
+          "id": "LU02C01",
+          "name": {
+            "local": "Flaxweiler",
+            "en": "Flaxweiler",
+            "slug": "flaxweiler-lu02c01"
+          },
+          "code": {
+            "id": "LU02C01",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU02C02",
+          "name": {
+            "local": "Biwer",
+            "en": "Biwer",
+            "slug": "biwer-lu02c02"
+          },
+          "code": {
+            "id": "LU02C02",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU02C03",
+          "name": {
+            "local": "Junglinster",
+            "en": "Junglinster",
+            "slug": "junglinster-lu02c03"
+          },
+          "code": {
+            "id": "LU02C03",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU02C04",
+          "name": {
+            "local": "Manternach",
+            "en": "Manternach",
+            "slug": "manternach-lu02c04"
+          },
+          "code": {
+            "id": "LU02C04",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU02C05",
+          "name": {
+            "local": "Betzdorf",
+            "en": "Betzdorf",
+            "slug": "betzdorf-lu02c05"
+          },
+          "code": {
+            "id": "LU02C05",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU02C06",
+          "name": {
+            "local": "Mertert",
+            "en": "Mertert",
+            "slug": "mertert-lu02c06"
+          },
+          "code": {
+            "id": "LU02C06",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU02C07",
+          "name": {
+            "local": "Grevenmacher",
+            "en": "Grevenmacher",
+            "slug": "grevenmacher-lu02c07"
+          },
+          "code": {
+            "id": "LU02C07",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "LU03",
+      "name": {
+        "local": "Luxembourg",
+        "en": "Luxembourg",
+        "slug": "luxembourg-lu03"
+      },
+      "code": {
+        "id": "LU03",
+        "iso": null
+      },
+      "commune": [
+        {
+          "id": "LU03C01",
+          "name": {
+            "local": "Luxembourg",
+            "en": "Luxembourg",
+            "slug": "luxembourg-lu03c01"
+          },
+          "code": {
+            "id": "LU03C01",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU03C02",
+          "name": {
+            "local": "Hesperange",
+            "en": "Hesperange",
+            "slug": "hesperange-lu03c02"
+          },
+          "code": {
+            "id": "LU03C02",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU03C03",
+          "name": {
+            "local": "Strassen",
+            "en": "Strassen",
+            "slug": "strassen-lu03c03"
+          },
+          "code": {
+            "id": "LU03C03",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU03C04",
+          "name": {
+            "local": "Walferdange",
+            "en": "Walferdange",
+            "slug": "walferdange-lu03c04"
+          },
+          "code": {
+            "id": "LU03C04",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU03C05",
+          "name": {
+            "local": "Bertrange",
+            "en": "Bertrange",
+            "slug": "bertrange-lu03c05"
+          },
+          "code": {
+            "id": "LU03C05",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "LU04",
+      "name": {
+        "local": "Wiltz",
+        "en": "Wiltz",
+        "slug": "wiltz-lu04"
+      },
+      "code": {
+        "id": "LU04",
+        "iso": null
+      },
+      "commune": [
+        {
+          "id": "LU04C01",
+          "name": {
+            "local": "Lac de la Haute Sûre",
+            "en": "Lac de la Haute Sûre",
+            "slug": "lac-de-la-haute-sure-lu04c01"
+          },
+          "code": {
+            "id": "LU04C01",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU04C02",
+          "name": {
+            "local": "Winseler",
+            "en": "Winseler",
+            "slug": "winseler-lu04c02"
+          },
+          "code": {
+            "id": "LU04C02",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU04C03",
+          "name": {
+            "local": "Feulen",
+            "en": "Feulen",
+            "slug": "feulen-lu04c03"
+          },
+          "code": {
+            "id": "LU04C03",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU04C04",
+          "name": {
+            "local": "Goesdorf",
+            "en": "Goesdorf",
+            "slug": "goesdorf-lu04c04"
+          },
+          "code": {
+            "id": "LU04C04",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU04C05",
+          "name": {
+            "local": "Mertzig",
+            "en": "Mertzig",
+            "slug": "mertzig-lu04c05"
+          },
+          "code": {
+            "id": "LU04C05",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU04C06",
+          "name": {
+            "local": "Kiischpelt",
+            "en": "Kiischpelt",
+            "slug": "kiischpelt-lu04c06"
+          },
+          "code": {
+            "id": "LU04C06",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU04C07",
+          "name": {
+            "local": "Esch-sur-Sûre",
+            "en": "Esch-sur-Sûre",
+            "slug": "esch-sur-sure-lu04c07"
+          },
+          "code": {
+            "id": "LU04C07",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU04C08",
+          "name": {
+            "local": "Boulaide",
+            "en": "Boulaide",
+            "slug": "boulaide-lu04c08"
+          },
+          "code": {
+            "id": "LU04C08",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU04C09",
+          "name": {
+            "local": "Wiltz",
+            "en": "Wiltz",
+            "slug": "wiltz-lu04c09"
+          },
+          "code": {
+            "id": "LU04C09",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "LU05",
+      "name": {
+        "local": "Redange",
+        "en": "Redange",
+        "slug": "redange-lu05"
+      },
+      "code": {
+        "id": "LU05",
+        "iso": null
+      },
+      "commune": [
+        {
+          "id": "LU05C01",
+          "name": {
+            "local": "Grosbous",
+            "en": "Grosbous",
+            "slug": "grosbous-lu05c01"
+          },
+          "code": {
+            "id": "LU05C01",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU05C02",
+          "name": {
+            "local": "Wahl",
+            "en": "Wahl",
+            "slug": "wahl-lu05c02"
+          },
+          "code": {
+            "id": "LU05C02",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU05C03",
+          "name": {
+            "local": "Ell",
+            "en": "Ell",
+            "slug": "ell-lu05c03"
+          },
+          "code": {
+            "id": "LU05C03",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU05C04",
+          "name": {
+            "local": "Beckerich",
+            "en": "Beckerich",
+            "slug": "beckerich-lu05c04"
+          },
+          "code": {
+            "id": "LU05C04",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU05C05",
+          "name": {
+            "local": "Useldange",
+            "en": "Useldange",
+            "slug": "useldange-lu05c05"
+          },
+          "code": {
+            "id": "LU05C05",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU05C06",
+          "name": {
+            "local": "Redange/Attert",
+            "en": "Redange/Attert",
+            "slug": "redange-attert-lu05c06"
+          },
+          "code": {
+            "id": "LU05C06",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU05C07",
+          "name": {
+            "local": "Rambrouch",
+            "en": "Rambrouch",
+            "slug": "rambrouch-lu05c07"
+          },
+          "code": {
+            "id": "LU05C07",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU05C08",
+          "name": {
+            "local": "Saeul",
+            "en": "Saeul",
+            "slug": "saeul-lu05c08"
+          },
+          "code": {
+            "id": "LU05C08",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU05C09",
+          "name": {
+            "local": "Vichten",
+            "en": "Vichten",
+            "slug": "vichten-lu05c09"
+          },
+          "code": {
+            "id": "LU05C09",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU05C10",
+          "name": {
+            "local": "Préizerdaul",
+            "en": "Préizerdaul",
+            "slug": "preizerdaul-lu05c10"
+          },
+          "code": {
+            "id": "LU05C10",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "LU06",
+      "name": {
+        "local": "Capellen",
+        "en": "Capellen",
+        "slug": "capellen-lu06"
+      },
+      "code": {
+        "id": "LU06",
+        "iso": null
+      },
+      "commune": [
+        {
+          "id": "LU06C01",
+          "name": {
+            "local": "Habscht",
+            "en": "Habscht",
+            "slug": "habscht-lu06c01"
+          },
+          "code": {
+            "id": "LU06C01",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU06C02",
+          "name": {
+            "local": "Garnich",
+            "en": "Garnich",
+            "slug": "garnich-lu06c02"
+          },
+          "code": {
+            "id": "LU06C02",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU06C03",
+          "name": {
+            "local": "Dippach",
+            "en": "Dippach",
+            "slug": "dippach-lu06c03"
+          },
+          "code": {
+            "id": "LU06C03",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU06C04",
+          "name": {
+            "local": "Kopstal",
+            "en": "Kopstal",
+            "slug": "kopstal-lu06c04"
+          },
+          "code": {
+            "id": "LU06C04",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU06C05",
+          "name": {
+            "local": "Mamer",
+            "en": "Mamer",
+            "slug": "mamer-lu06c05"
+          },
+          "code": {
+            "id": "LU06C05",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU06C06",
+          "name": {
+            "local": "Steinfort",
+            "en": "Steinfort",
+            "slug": "steinfort-lu06c06"
+          },
+          "code": {
+            "id": "LU06C06",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU06C07",
+          "name": {
+            "local": "Koerich",
+            "en": "Koerich",
+            "slug": "koerich-lu06c07"
+          },
+          "code": {
+            "id": "LU06C07",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU06C08",
+          "name": {
+            "local": "Kehlen",
+            "en": "Kehlen",
+            "slug": "kehlen-lu06c08"
+          },
+          "code": {
+            "id": "LU06C08",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU06C09",
+          "name": {
+            "local": "KÃ¤erjeng",
+            "en": "KÃ¤erjeng",
+            "slug": "ka-erjeng-lu06c09"
+          },
+          "code": {
+            "id": "LU06C09",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "LU07",
+      "name": {
+        "local": "Esch-sur-Alzette",
+        "en": "Esch-sur-Alzette",
+        "slug": "esch-sur-alzette-lu07"
+      },
+      "code": {
+        "id": "LU07",
+        "iso": null
+      },
+      "commune": [
+        {
+          "id": "LU07C01",
+          "name": {
+            "local": "Differdange",
+            "en": "Differdange",
+            "slug": "differdange-lu07c01"
+          },
+          "code": {
+            "id": "LU07C01",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU07C02",
+          "name": {
+            "local": "Pétange",
+            "en": "Pétange",
+            "slug": "petange-lu07c02"
+          },
+          "code": {
+            "id": "LU07C02",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU07C03",
+          "name": {
+            "local": "Mondercange",
+            "en": "Mondercange",
+            "slug": "mondercange-lu07c03"
+          },
+          "code": {
+            "id": "LU07C03",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU07C04",
+          "name": {
+            "local": "Sanem",
+            "en": "Sanem",
+            "slug": "sanem-lu07c04"
+          },
+          "code": {
+            "id": "LU07C04",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU07C05",
+          "name": {
+            "local": "Rumelange",
+            "en": "Rumelange",
+            "slug": "rumelange-lu07c05"
+          },
+          "code": {
+            "id": "LU07C05",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU07C06",
+          "name": {
+            "local": "Roeser",
+            "en": "Roeser",
+            "slug": "roeser-lu07c06"
+          },
+          "code": {
+            "id": "LU07C06",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU07C07",
+          "name": {
+            "local": "Dudelange",
+            "en": "Dudelange",
+            "slug": "dudelange-lu07c07"
+          },
+          "code": {
+            "id": "LU07C07",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU07C08",
+          "name": {
+            "local": "Bettembourg",
+            "en": "Bettembourg",
+            "slug": "bettembourg-lu07c08"
+          },
+          "code": {
+            "id": "LU07C08",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU07C09",
+          "name": {
+            "local": "Esch-sur-Alzette",
+            "en": "Esch-sur-Alzette",
+            "slug": "esch-sur-alzette-lu07c09"
+          },
+          "code": {
+            "id": "LU07C09",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU07C10",
+          "name": {
+            "local": "Leudelange",
+            "en": "Leudelange",
+            "slug": "leudelange-lu07c10"
+          },
+          "code": {
+            "id": "LU07C10",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU07C11",
+          "name": {
+            "local": "Kayl",
+            "en": "Kayl",
+            "slug": "kayl-lu07c11"
+          },
+          "code": {
+            "id": "LU07C11",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU07C12",
+          "name": {
+            "local": "Frisange",
+            "en": "Frisange",
+            "slug": "frisange-lu07c12"
+          },
+          "code": {
+            "id": "LU07C12",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU07C13",
+          "name": {
+            "local": "Reckange-sur-Mess",
+            "en": "Reckange-sur-Mess",
+            "slug": "reckange-sur-mess-lu07c13"
+          },
+          "code": {
+            "id": "LU07C13",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU07C14",
+          "name": {
+            "local": "Schifflange",
+            "en": "Schifflange",
+            "slug": "schifflange-lu07c14"
+          },
+          "code": {
+            "id": "LU07C14",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "LU08",
+      "name": {
+        "local": "Mersch",
+        "en": "Mersch",
+        "slug": "mersch-lu08"
+      },
+      "code": {
+        "id": "LU08",
+        "iso": null
+      },
+      "commune": [
+        {
+          "id": "LU08C01",
+          "name": {
+            "local": "Nommern",
+            "en": "Nommern",
+            "slug": "nommern-lu08c01"
+          },
+          "code": {
+            "id": "LU08C01",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU08C02",
+          "name": {
+            "local": "Mersch",
+            "en": "Mersch",
+            "slug": "mersch-lu08c02"
+          },
+          "code": {
+            "id": "LU08C02",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU08C03",
+          "name": {
+            "local": "Heffingen",
+            "en": "Heffingen",
+            "slug": "heffingen-lu08c03"
+          },
+          "code": {
+            "id": "LU08C03",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU08C04",
+          "name": {
+            "local": "Lintgen",
+            "en": "Lintgen",
+            "slug": "lintgen-lu08c04"
+          },
+          "code": {
+            "id": "LU08C04",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU08C05",
+          "name": {
+            "local": "Bissen",
+            "en": "Bissen",
+            "slug": "bissen-lu08c05"
+          },
+          "code": {
+            "id": "LU08C05",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU08C06",
+          "name": {
+            "local": "Steinsel",
+            "en": "Steinsel",
+            "slug": "steinsel-lu08c06"
+          },
+          "code": {
+            "id": "LU08C06",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU08C07",
+          "name": {
+            "local": "Fischbach",
+            "en": "Fischbach",
+            "slug": "fischbach-lu08c07"
+          },
+          "code": {
+            "id": "LU08C07",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU08C08",
+          "name": {
+            "local": "Ettelbruck",
+            "en": "Ettelbruck",
+            "slug": "ettelbruck-lu08c08"
+          },
+          "code": {
+            "id": "LU08C08",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU08C09",
+          "name": {
+            "local": "Lorentzweiler",
+            "en": "Lorentzweiler",
+            "slug": "lorentzweiler-lu08c09"
+          },
+          "code": {
+            "id": "LU08C09",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU08C10",
+          "name": {
+            "local": "Larochette",
+            "en": "Larochette",
+            "slug": "larochette-lu08c10"
+          },
+          "code": {
+            "id": "LU08C10",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU08C11",
+          "name": {
+            "local": "Schieren",
+            "en": "Schieren",
+            "slug": "schieren-lu08c11"
+          },
+          "code": {
+            "id": "LU08C11",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU08C12",
+          "name": {
+            "local": "Colmar-Berg",
+            "en": "Colmar-Berg",
+            "slug": "colmar-berg-lu08c12"
+          },
+          "code": {
+            "id": "LU08C12",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU08C13",
+          "name": {
+            "local": "Helperknapp",
+            "en": "Helperknapp",
+            "slug": "helperknapp-lu08c13"
+          },
+          "code": {
+            "id": "LU08C13",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU08C14",
+          "name": {
+            "local": "Vallée de l'Ernz",
+            "en": "Vallée de l'Ernz",
+            "slug": "vallee-de-l-ernz-lu08c14"
+          },
+          "code": {
+            "id": "LU08C14",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "LU09",
+      "name": {
+        "local": "Remich",
+        "en": "Remich",
+        "slug": "remich-lu09"
+      },
+      "code": {
+        "id": "LU09",
+        "iso": null
+      },
+      "commune": [
+        {
+          "id": "LU09C01",
+          "name": {
+            "local": "Dalheim",
+            "en": "Dalheim",
+            "slug": "dalheim-lu09c01"
+          },
+          "code": {
+            "id": "LU09C01",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU09C02",
+          "name": {
+            "local": "Weiler-la-Tour",
+            "en": "Weiler-la-Tour",
+            "slug": "weiler-la-tour-lu09c02"
+          },
+          "code": {
+            "id": "LU09C02",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU09C03",
+          "name": {
+            "local": "Waldbredimus",
+            "en": "Waldbredimus",
+            "slug": "waldbredimus-lu09c03"
+          },
+          "code": {
+            "id": "LU09C03",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU09C04",
+          "name": {
+            "local": "Bous",
+            "en": "Bous",
+            "slug": "bous-lu09c04"
+          },
+          "code": {
+            "id": "LU09C04",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU09C05",
+          "name": {
+            "local": "Wormeldange",
+            "en": "Wormeldange",
+            "slug": "wormeldange-lu09c05"
+          },
+          "code": {
+            "id": "LU09C05",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU09C06",
+          "name": {
+            "local": "Lenningen",
+            "en": "Lenningen",
+            "slug": "lenningen-lu09c06"
+          },
+          "code": {
+            "id": "LU09C06",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU09C07",
+          "name": {
+            "local": "Remich",
+            "en": "Remich",
+            "slug": "remich-lu09c07"
+          },
+          "code": {
+            "id": "LU09C07",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU09C08",
+          "name": {
+            "local": "Stadtbredimus",
+            "en": "Stadtbredimus",
+            "slug": "stadtbredimus-lu09c08"
+          },
+          "code": {
+            "id": "LU09C08",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU09C09",
+          "name": {
+            "local": "Sandweiler",
+            "en": "Sandweiler",
+            "slug": "sandweiler-lu09c09"
+          },
+          "code": {
+            "id": "LU09C09",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU09C10",
+          "name": {
+            "local": "Mondorf-les-Bains",
+            "en": "Mondorf-les-Bains",
+            "slug": "mondorf-les-bains-lu09c10"
+          },
+          "code": {
+            "id": "LU09C10",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU09C11",
+          "name": {
+            "local": "Schuttrange",
+            "en": "Schuttrange",
+            "slug": "schuttrange-lu09c11"
+          },
+          "code": {
+            "id": "LU09C11",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU09C12",
+          "name": {
+            "local": "Niederanven",
+            "en": "Niederanven",
+            "slug": "niederanven-lu09c12"
+          },
+          "code": {
+            "id": "LU09C12",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU09C13",
+          "name": {
+            "local": "Schengen",
+            "en": "Schengen",
+            "slug": "schengen-lu09c13"
+          },
+          "code": {
+            "id": "LU09C13",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU09C14",
+          "name": {
+            "local": "Contern",
+            "en": "Contern",
+            "slug": "contern-lu09c14"
+          },
+          "code": {
+            "id": "LU09C14",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "LU10",
+      "name": {
+        "local": "Echternach",
+        "en": "Echternach",
+        "slug": "echternach-lu10"
+      },
+      "code": {
+        "id": "LU10",
+        "iso": null
+      },
+      "commune": [
+        {
+          "id": "LU10C01",
+          "name": {
+            "local": "Consdorf",
+            "en": "Consdorf",
+            "slug": "consdorf-lu10c01"
+          },
+          "code": {
+            "id": "LU10C01",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU10C02",
+          "name": {
+            "local": "Reisdorf",
+            "en": "Reisdorf",
+            "slug": "reisdorf-lu10c02"
+          },
+          "code": {
+            "id": "LU10C02",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU10C03",
+          "name": {
+            "local": "Echternach",
+            "en": "Echternach",
+            "slug": "echternach-lu10c03"
+          },
+          "code": {
+            "id": "LU10C03",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU10C04",
+          "name": {
+            "local": "Waldbillig",
+            "en": "Waldbillig",
+            "slug": "waldbillig-lu10c04"
+          },
+          "code": {
+            "id": "LU10C04",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU10C05",
+          "name": {
+            "local": "Bech",
+            "en": "Bech",
+            "slug": "bech-lu10c05"
+          },
+          "code": {
+            "id": "LU10C05",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU10C06",
+          "name": {
+            "local": "Berdorf",
+            "en": "Berdorf",
+            "slug": "berdorf-lu10c06"
+          },
+          "code": {
+            "id": "LU10C06",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU10C07",
+          "name": {
+            "local": "Beaufort",
+            "en": "Beaufort",
+            "slug": "beaufort-lu10c07"
+          },
+          "code": {
+            "id": "LU10C07",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU10C08",
+          "name": {
+            "local": "Rosport-Mompach",
+            "en": "Rosport-Mompach",
+            "slug": "rosport-mompach-lu10c08"
+          },
+          "code": {
+            "id": "LU10C08",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "LU11",
+      "name": {
+        "local": "Vianden",
+        "en": "Vianden",
+        "slug": "vianden-lu11"
+      },
+      "code": {
+        "id": "LU11",
+        "iso": null
+      },
+      "commune": [
+        {
+          "id": "LU11C01",
+          "name": {
+            "local": "Vianden",
+            "en": "Vianden",
+            "slug": "vianden-lu11c01"
+          },
+          "code": {
+            "id": "LU11C01",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU11C02",
+          "name": {
+            "local": "Bourscheid",
+            "en": "Bourscheid",
+            "slug": "bourscheid-lu11c02"
+          },
+          "code": {
+            "id": "LU11C02",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU11C03",
+          "name": {
+            "local": "Bettendorf",
+            "en": "Bettendorf",
+            "slug": "bettendorf-lu11c03"
+          },
+          "code": {
+            "id": "LU11C03",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU11C04",
+          "name": {
+            "local": "Erpeldange-sur-Sûre",
+            "en": "Erpeldange-sur-Sûre",
+            "slug": "erpeldange-sur-sure-lu11c04"
+          },
+          "code": {
+            "id": "LU11C04",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU11C05",
+          "name": {
+            "local": "Diekirch",
+            "en": "Diekirch",
+            "slug": "diekirch-lu11c05"
+          },
+          "code": {
+            "id": "LU11C05",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU11C06",
+          "name": {
+            "local": "Putscheid",
+            "en": "Putscheid",
+            "slug": "putscheid-lu11c06"
+          },
+          "code": {
+            "id": "LU11C06",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU11C07",
+          "name": {
+            "local": "Tandel",
+            "en": "Tandel",
+            "slug": "tandel-lu11c07"
+          },
+          "code": {
+            "id": "LU11C07",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "LU12",
+      "name": {
+        "local": "Clervaux",
+        "en": "Clervaux",
+        "slug": "clervaux-lu12"
+      },
+      "code": {
+        "id": "LU12",
+        "iso": null
+      },
+      "commune": [
+        {
+          "id": "LU12C01",
+          "name": {
+            "local": "Parc Hosingen",
+            "en": "Parc Hosingen",
+            "slug": "parc-hosingen-lu12c01"
+          },
+          "code": {
+            "id": "LU12C01",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU12C02",
+          "name": {
+            "local": "Weiswampach",
+            "en": "Weiswampach",
+            "slug": "weiswampach-lu12c02"
+          },
+          "code": {
+            "id": "LU12C02",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU12C03",
+          "name": {
+            "local": "Troisvierges",
+            "en": "Troisvierges",
+            "slug": "troisvierges-lu12c03"
+          },
+          "code": {
+            "id": "LU12C03",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU12C04",
+          "name": {
+            "local": "Clervaux",
+            "en": "Clervaux",
+            "slug": "clervaux-lu12c04"
+          },
+          "code": {
+            "id": "LU12C04",
+            "iso": null
+          }
+        },
+        {
+          "id": "LU12C05",
+          "name": {
+            "local": "Wincrange",
+            "en": "Wincrange",
+            "slug": "wincrange-lu12c05"
+          },
+          "code": {
+            "id": "LU12C05",
+            "iso": null
+          }
+        }
+      ]
+    }
+  ]
+}

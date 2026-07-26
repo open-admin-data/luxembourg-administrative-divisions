@@ -1,0 +1,45 @@
+{
+  "id": "LU05C08",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Saeul",
+    "en": "Saeul",
+    "slug": "saeul-lu05c08"
+  },
+  "code": {
+    "id": "LU05C08",
+    "iso": null
+  },
+  "parent": {
+    "id": "LU05",
+    "level": 1,
+    "name": {
+      "local": "Redange",
+      "en": "Redange",
+      "slug": "redange-lu05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LU05",
+      "level": 1,
+      "name": {
+        "local": "Redange",
+        "en": "Redange",
+        "slug": "redange-lu05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.735",
+    "lon": "5.974"
+  },
+  "metadata": {},
+  "source": {}
+}

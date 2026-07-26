@@ -1,0 +1,33 @@
+{
+  "id": "LU07",
+  "level": 1,
+  "level_name": {
+    "local": "Canton",
+    "en": "Canton"
+  },
+  "name": {
+    "local": "Esch-sur-Alzette",
+    "en": "Esch-sur-Alzette",
+    "slug": "esch-sur-alzette-lu07"
+  },
+  "code": {
+    "id": "LU07",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.518",
+    "lon": "6.029"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lu/cantons/esch-sur-alzette-lu07/",
+    "api": "https://openadmindata.org/api/lu/"
+  }
+}

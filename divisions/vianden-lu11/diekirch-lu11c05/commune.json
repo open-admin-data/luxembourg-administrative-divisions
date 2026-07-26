@@ -1,0 +1,45 @@
+{
+  "id": "LU11C05",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Diekirch",
+    "en": "Diekirch",
+    "slug": "diekirch-lu11c05"
+  },
+  "code": {
+    "id": "LU11C05",
+    "iso": null
+  },
+  "parent": {
+    "id": "LU11",
+    "level": 1,
+    "name": {
+      "local": "Vianden",
+      "en": "Vianden",
+      "slug": "vianden-lu11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LU11",
+      "level": 1,
+      "name": {
+        "local": "Vianden",
+        "en": "Vianden",
+        "slug": "vianden-lu11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.917",
+    "lon": "6.133"
+  },
+  "metadata": {},
+  "source": {}
+}

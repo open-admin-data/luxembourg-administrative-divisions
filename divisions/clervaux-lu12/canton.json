@@ -1,0 +1,33 @@
+{
+  "id": "LU12",
+  "level": 1,
+  "level_name": {
+    "local": "Canton",
+    "en": "Canton"
+  },
+  "name": {
+    "local": "Clervaux",
+    "en": "Clervaux",
+    "slug": "clervaux-lu12"
+  },
+  "code": {
+    "id": "LU12",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.083",
+    "lon": "6.03"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lu/cantons/clervaux-lu12/",
+    "api": "https://openadmindata.org/api/lu/"
+  }
+}

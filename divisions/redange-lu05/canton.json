@@ -1,0 +1,33 @@
+{
+  "id": "LU05",
+  "level": 1,
+  "level_name": {
+    "local": "Canton",
+    "en": "Canton"
+  },
+  "name": {
+    "local": "Redange",
+    "en": "Redange",
+    "slug": "redange-lu05"
+  },
+  "code": {
+    "id": "LU05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.797",
+    "lon": "5.886"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lu/cantons/redange-lu05/",
+    "api": "https://openadmindata.org/api/lu/"
+  }
+}

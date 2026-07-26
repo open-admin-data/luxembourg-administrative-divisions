@@ -1,0 +1,33 @@
+{
+  "id": "LU08",
+  "level": 1,
+  "level_name": {
+    "local": "Canton",
+    "en": "Canton"
+  },
+  "name": {
+    "local": "Mersch",
+    "en": "Mersch",
+    "slug": "mersch-lu08"
+  },
+  "code": {
+    "id": "LU08",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.752",
+    "lon": "6.117"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lu/cantons/mersch-lu08/",
+    "api": "https://openadmindata.org/api/lu/"
+  }
+}

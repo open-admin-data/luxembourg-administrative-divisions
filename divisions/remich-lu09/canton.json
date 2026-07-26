@@ -1,0 +1,33 @@
+{
+  "id": "LU09",
+  "level": 1,
+  "level_name": {
+    "local": "Canton",
+    "en": "Canton"
+  },
+  "name": {
+    "local": "Remich",
+    "en": "Remich",
+    "slug": "remich-lu09"
+  },
+  "code": {
+    "id": "LU09",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.539",
+    "lon": "6.312"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lu/cantons/remich-lu09/",
+    "api": "https://openadmindata.org/api/lu/"
+  }
+}

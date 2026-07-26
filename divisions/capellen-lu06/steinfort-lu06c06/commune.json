@@ -1,0 +1,45 @@
+{
+  "id": "LU06C06",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Steinfort",
+    "en": "Steinfort",
+    "slug": "steinfort-lu06c06"
+  },
+  "code": {
+    "id": "LU06C06",
+    "iso": null
+  },
+  "parent": {
+    "id": "LU06",
+    "level": 1,
+    "name": {
+      "local": "Capellen",
+      "en": "Capellen",
+      "slug": "capellen-lu06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LU06",
+      "level": 1,
+      "name": {
+        "local": "Capellen",
+        "en": "Capellen",
+        "slug": "capellen-lu06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.661",
+    "lon": "5.919"
+  },
+  "metadata": {},
+  "source": {}
+}

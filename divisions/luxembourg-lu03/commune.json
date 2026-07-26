@@ -1,0 +1,227 @@
+[
+  {
+    "id": "LU03C05",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bertrange",
+      "en": "Bertrange",
+      "slug": "bertrange-lu03c05"
+    },
+    "code": {
+      "id": "LU03C05",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU03",
+      "level": 1,
+      "name": {
+        "local": "Luxembourg",
+        "en": "Luxembourg",
+        "slug": "luxembourg-lu03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU03",
+        "level": 1,
+        "name": {
+          "local": "Luxembourg",
+          "en": "Luxembourg",
+          "slug": "luxembourg-lu03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.611",
+      "lon": "6.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU03C02",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hesperange",
+      "en": "Hesperange",
+      "slug": "hesperange-lu03c02"
+    },
+    "code": {
+      "id": "LU03C02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU03",
+      "level": 1,
+      "name": {
+        "local": "Luxembourg",
+        "en": "Luxembourg",
+        "slug": "luxembourg-lu03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU03",
+        "level": 1,
+        "name": {
+          "local": "Luxembourg",
+          "en": "Luxembourg",
+          "slug": "luxembourg-lu03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.568",
+      "lon": "6.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU03C01",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Luxembourg",
+      "en": "Luxembourg",
+      "slug": "luxembourg-lu03c01"
+    },
+    "code": {
+      "id": "LU03C01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU03",
+      "level": 1,
+      "name": {
+        "local": "Luxembourg",
+        "en": "Luxembourg",
+        "slug": "luxembourg-lu03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU03",
+        "level": 1,
+        "name": {
+          "local": "Luxembourg",
+          "en": "Luxembourg",
+          "slug": "luxembourg-lu03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.613",
+      "lon": "6.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU03C03",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Strassen",
+      "en": "Strassen",
+      "slug": "strassen-lu03c03"
+    },
+    "code": {
+      "id": "LU03C03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU03",
+      "level": 1,
+      "name": {
+        "local": "Luxembourg",
+        "en": "Luxembourg",
+        "slug": "luxembourg-lu03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU03",
+        "level": 1,
+        "name": {
+          "local": "Luxembourg",
+          "en": "Luxembourg",
+          "slug": "luxembourg-lu03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.621",
+      "lon": "6.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU03C04",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Walferdange",
+      "en": "Walferdange",
+      "slug": "walferdange-lu03c04"
+    },
+    "code": {
+      "id": "LU03C04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU03",
+      "level": 1,
+      "name": {
+        "local": "Luxembourg",
+        "en": "Luxembourg",
+        "slug": "luxembourg-lu03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU03",
+        "level": 1,
+        "name": {
+          "local": "Luxembourg",
+          "en": "Luxembourg",
+          "slug": "luxembourg-lu03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.658",
+      "lon": "6.137"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

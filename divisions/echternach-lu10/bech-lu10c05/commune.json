@@ -1,0 +1,45 @@
+{
+  "id": "LU10C05",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Bech",
+    "en": "Bech",
+    "slug": "bech-lu10c05"
+  },
+  "code": {
+    "id": "LU10C05",
+    "iso": null
+  },
+  "parent": {
+    "id": "LU10",
+    "level": 1,
+    "name": {
+      "local": "Echternach",
+      "en": "Echternach",
+      "slug": "echternach-lu10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LU10",
+      "level": 1,
+      "name": {
+        "local": "Echternach",
+        "en": "Echternach",
+        "slug": "echternach-lu10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.746",
+    "lon": "6.364"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "LU05C06",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Redange/Attert",
+    "en": "Redange/Attert",
+    "slug": "redange-attert-lu05c06"
+  },
+  "code": {
+    "id": "LU05C06",
+    "iso": null
+  },
+  "parent": {
+    "id": "LU05",
+    "level": 1,
+    "name": {
+      "local": "Redange",
+      "en": "Redange",
+      "slug": "redange-lu05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LU05",
+      "level": 1,
+      "name": {
+        "local": "Redange",
+        "en": "Redange",
+        "slug": "redange-lu05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.766",
+    "lon": "5.891"
+  },
+  "metadata": {},
+  "source": {}
+}

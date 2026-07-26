@@ -1,0 +1,632 @@
+[
+  {
+    "id": "LU09C04",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bous",
+      "en": "Bous",
+      "slug": "bous-lu09c04"
+    },
+    "code": {
+      "id": "LU09C04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU09",
+      "level": 1,
+      "name": {
+        "local": "Remich",
+        "en": "Remich",
+        "slug": "remich-lu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU09",
+        "level": 1,
+        "name": {
+          "local": "Remich",
+          "en": "Remich",
+          "slug": "remich-lu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.554",
+      "lon": "6.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU09C14",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Contern",
+      "en": "Contern",
+      "slug": "contern-lu09c14"
+    },
+    "code": {
+      "id": "LU09C14",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU09",
+      "level": 1,
+      "name": {
+        "local": "Remich",
+        "en": "Remich",
+        "slug": "remich-lu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU09",
+        "level": 1,
+        "name": {
+          "local": "Remich",
+          "en": "Remich",
+          "slug": "remich-lu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.588",
+      "lon": "6.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU09C01",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dalheim",
+      "en": "Dalheim",
+      "slug": "dalheim-lu09c01"
+    },
+    "code": {
+      "id": "LU09C01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU09",
+      "level": 1,
+      "name": {
+        "local": "Remich",
+        "en": "Remich",
+        "slug": "remich-lu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU09",
+        "level": 1,
+        "name": {
+          "local": "Remich",
+          "en": "Remich",
+          "slug": "remich-lu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.541",
+      "lon": "6.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU09C06",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lenningen",
+      "en": "Lenningen",
+      "slug": "lenningen-lu09c06"
+    },
+    "code": {
+      "id": "LU09C06",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU09",
+      "level": 1,
+      "name": {
+        "local": "Remich",
+        "en": "Remich",
+        "slug": "remich-lu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU09",
+        "level": 1,
+        "name": {
+          "local": "Remich",
+          "en": "Remich",
+          "slug": "remich-lu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.599",
+      "lon": "6.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU09C10",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mondorf-les-Bains",
+      "en": "Mondorf-les-Bains",
+      "slug": "mondorf-les-bains-lu09c10"
+    },
+    "code": {
+      "id": "LU09C10",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU09",
+      "level": 1,
+      "name": {
+        "local": "Remich",
+        "en": "Remich",
+        "slug": "remich-lu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU09",
+        "level": 1,
+        "name": {
+          "local": "Remich",
+          "en": "Remich",
+          "slug": "remich-lu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.505",
+      "lon": "6.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU09C12",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Niederanven",
+      "en": "Niederanven",
+      "slug": "niederanven-lu09c12"
+    },
+    "code": {
+      "id": "LU09C12",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU09",
+      "level": 1,
+      "name": {
+        "local": "Remich",
+        "en": "Remich",
+        "slug": "remich-lu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU09",
+        "level": 1,
+        "name": {
+          "local": "Remich",
+          "en": "Remich",
+          "slug": "remich-lu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.648",
+      "lon": "6.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU09C07",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Remich",
+      "en": "Remich",
+      "slug": "remich-lu09c07"
+    },
+    "code": {
+      "id": "LU09C07",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU09",
+      "level": 1,
+      "name": {
+        "local": "Remich",
+        "en": "Remich",
+        "slug": "remich-lu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU09",
+        "level": 1,
+        "name": {
+          "local": "Remich",
+          "en": "Remich",
+          "slug": "remich-lu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.545",
+      "lon": "6.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU09C09",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sandweiler",
+      "en": "Sandweiler",
+      "slug": "sandweiler-lu09c09"
+    },
+    "code": {
+      "id": "LU09C09",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU09",
+      "level": 1,
+      "name": {
+        "local": "Remich",
+        "en": "Remich",
+        "slug": "remich-lu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU09",
+        "level": 1,
+        "name": {
+          "local": "Remich",
+          "en": "Remich",
+          "slug": "remich-lu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.613",
+      "lon": "6.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU09C13",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Schengen",
+      "en": "Schengen",
+      "slug": "schengen-lu09c13"
+    },
+    "code": {
+      "id": "LU09C13",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU09",
+      "level": 1,
+      "name": {
+        "local": "Remich",
+        "en": "Remich",
+        "slug": "remich-lu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU09",
+        "level": 1,
+        "name": {
+          "local": "Remich",
+          "en": "Remich",
+          "slug": "remich-lu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.499",
+      "lon": "6.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU09C11",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Schuttrange",
+      "en": "Schuttrange",
+      "slug": "schuttrange-lu09c11"
+    },
+    "code": {
+      "id": "LU09C11",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU09",
+      "level": 1,
+      "name": {
+        "local": "Remich",
+        "en": "Remich",
+        "slug": "remich-lu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU09",
+        "level": 1,
+        "name": {
+          "local": "Remich",
+          "en": "Remich",
+          "slug": "remich-lu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.621",
+      "lon": "6.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU09C08",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Stadtbredimus",
+      "en": "Stadtbredimus",
+      "slug": "stadtbredimus-lu09c08"
+    },
+    "code": {
+      "id": "LU09C08",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU09",
+      "level": 1,
+      "name": {
+        "local": "Remich",
+        "en": "Remich",
+        "slug": "remich-lu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU09",
+        "level": 1,
+        "name": {
+          "local": "Remich",
+          "en": "Remich",
+          "slug": "remich-lu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.563",
+      "lon": "6.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU09C03",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Waldbredimus",
+      "en": "Waldbredimus",
+      "slug": "waldbredimus-lu09c03"
+    },
+    "code": {
+      "id": "LU09C03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU09",
+      "level": 1,
+      "name": {
+        "local": "Remich",
+        "en": "Remich",
+        "slug": "remich-lu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU09",
+        "level": 1,
+        "name": {
+          "local": "Remich",
+          "en": "Remich",
+          "slug": "remich-lu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.555",
+      "lon": "6.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU09C02",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Weiler-la-Tour",
+      "en": "Weiler-la-Tour",
+      "slug": "weiler-la-tour-lu09c02"
+    },
+    "code": {
+      "id": "LU09C02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU09",
+      "level": 1,
+      "name": {
+        "local": "Remich",
+        "en": "Remich",
+        "slug": "remich-lu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU09",
+        "level": 1,
+        "name": {
+          "local": "Remich",
+          "en": "Remich",
+          "slug": "remich-lu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.541",
+      "lon": "6.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU09C05",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Wormeldange",
+      "en": "Wormeldange",
+      "slug": "wormeldange-lu09c05"
+    },
+    "code": {
+      "id": "LU09C05",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU09",
+      "level": 1,
+      "name": {
+        "local": "Remich",
+        "en": "Remich",
+        "slug": "remich-lu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU09",
+        "level": 1,
+        "name": {
+          "local": "Remich",
+          "en": "Remich",
+          "slug": "remich-lu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.608",
+      "lon": "6.406"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

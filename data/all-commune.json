@@ -1,0 +1,4592 @@
+[
+  {
+    "id": "LU07C01",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Differdange",
+      "en": "Differdange",
+      "slug": "differdange-lu07c01"
+    },
+    "code": {
+      "id": "LU07C01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU07",
+      "level": 1,
+      "name": {
+        "local": "Esch-sur-Alzette",
+        "en": "Esch-sur-Alzette",
+        "slug": "esch-sur-alzette-lu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU07",
+        "level": 1,
+        "name": {
+          "local": "Esch-sur-Alzette",
+          "en": "Esch-sur-Alzette",
+          "slug": "esch-sur-alzette-lu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.523",
+      "lon": "5.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU07C02",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Pétange",
+      "en": "Pétange",
+      "slug": "petange-lu07c02"
+    },
+    "code": {
+      "id": "LU07C02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU07",
+      "level": 1,
+      "name": {
+        "local": "Esch-sur-Alzette",
+        "en": "Esch-sur-Alzette",
+        "slug": "esch-sur-alzette-lu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU07",
+        "level": 1,
+        "name": {
+          "local": "Esch-sur-Alzette",
+          "en": "Esch-sur-Alzette",
+          "slug": "esch-sur-alzette-lu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.553",
+      "lon": "5.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU04C01",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lac de la Haute Sûre",
+      "en": "Lac de la Haute Sûre",
+      "slug": "lac-de-la-haute-sure-lu04c01"
+    },
+    "code": {
+      "id": "LU04C01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU04",
+      "level": 1,
+      "name": {
+        "local": "Wiltz",
+        "en": "Wiltz",
+        "slug": "wiltz-lu04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU04",
+        "level": 1,
+        "name": {
+          "local": "Wiltz",
+          "en": "Wiltz",
+          "slug": "wiltz-lu04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.909",
+      "lon": "5.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU09C01",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dalheim",
+      "en": "Dalheim",
+      "slug": "dalheim-lu09c01"
+    },
+    "code": {
+      "id": "LU09C01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU09",
+      "level": 1,
+      "name": {
+        "local": "Remich",
+        "en": "Remich",
+        "slug": "remich-lu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU09",
+        "level": 1,
+        "name": {
+          "local": "Remich",
+          "en": "Remich",
+          "slug": "remich-lu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.541",
+      "lon": "6.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU02C01",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Flaxweiler",
+      "en": "Flaxweiler",
+      "slug": "flaxweiler-lu02c01"
+    },
+    "code": {
+      "id": "LU02C01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU02",
+      "level": 1,
+      "name": {
+        "local": "Grevenmacher",
+        "en": "Grevenmacher",
+        "slug": "grevenmacher-lu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU02",
+        "level": 1,
+        "name": {
+          "local": "Grevenmacher",
+          "en": "Grevenmacher",
+          "slug": "grevenmacher-lu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.662",
+      "lon": "6.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU06C01",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Habscht",
+      "en": "Habscht",
+      "slug": "habscht-lu06c01"
+    },
+    "code": {
+      "id": "LU06C01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU06",
+      "level": 1,
+      "name": {
+        "local": "Capellen",
+        "en": "Capellen",
+        "slug": "capellen-lu06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU06",
+        "level": 1,
+        "name": {
+          "local": "Capellen",
+          "en": "Capellen",
+          "slug": "capellen-lu06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.689",
+      "lon": "5.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU05C01",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Grosbous",
+      "en": "Grosbous",
+      "slug": "grosbous-lu05c01"
+    },
+    "code": {
+      "id": "LU05C01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU05",
+      "level": 1,
+      "name": {
+        "local": "Redange",
+        "en": "Redange",
+        "slug": "redange-lu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU05",
+        "level": 1,
+        "name": {
+          "local": "Redange",
+          "en": "Redange",
+          "slug": "redange-lu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.828",
+      "lon": "5.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU04C02",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Winseler",
+      "en": "Winseler",
+      "slug": "winseler-lu04c02"
+    },
+    "code": {
+      "id": "LU04C02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU04",
+      "level": 1,
+      "name": {
+        "local": "Wiltz",
+        "en": "Wiltz",
+        "slug": "wiltz-lu04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU04",
+        "level": 1,
+        "name": {
+          "local": "Wiltz",
+          "en": "Wiltz",
+          "slug": "wiltz-lu04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.968",
+      "lon": "5.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU04C03",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Feulen",
+      "en": "Feulen",
+      "slug": "feulen-lu04c03"
+    },
+    "code": {
+      "id": "LU04C03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU04",
+      "level": 1,
+      "name": {
+        "local": "Wiltz",
+        "en": "Wiltz",
+        "slug": "wiltz-lu04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU04",
+        "level": 1,
+        "name": {
+          "local": "Wiltz",
+          "en": "Wiltz",
+          "slug": "wiltz-lu04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.85",
+      "lon": "6.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU06C02",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Garnich",
+      "en": "Garnich",
+      "slug": "garnich-lu06c02"
+    },
+    "code": {
+      "id": "LU06C02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU06",
+      "level": 1,
+      "name": {
+        "local": "Capellen",
+        "en": "Capellen",
+        "slug": "capellen-lu06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU06",
+        "level": 1,
+        "name": {
+          "local": "Capellen",
+          "en": "Capellen",
+          "slug": "capellen-lu06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.617",
+      "lon": "5.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU08C01",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nommern",
+      "en": "Nommern",
+      "slug": "nommern-lu08c01"
+    },
+    "code": {
+      "id": "LU08C01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU08",
+      "level": 1,
+      "name": {
+        "local": "Mersch",
+        "en": "Mersch",
+        "slug": "mersch-lu08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU08",
+        "level": 1,
+        "name": {
+          "local": "Mersch",
+          "en": "Mersch",
+          "slug": "mersch-lu08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.787",
+      "lon": "6.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU10C01",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Consdorf",
+      "en": "Consdorf",
+      "slug": "consdorf-lu10c01"
+    },
+    "code": {
+      "id": "LU10C01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU10",
+      "level": 1,
+      "name": {
+        "local": "Echternach",
+        "en": "Echternach",
+        "slug": "echternach-lu10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU10",
+        "level": 1,
+        "name": {
+          "local": "Echternach",
+          "en": "Echternach",
+          "slug": "echternach-lu10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.773",
+      "lon": "6.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU06C03",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dippach",
+      "en": "Dippach",
+      "slug": "dippach-lu06c03"
+    },
+    "code": {
+      "id": "LU06C03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU06",
+      "level": 1,
+      "name": {
+        "local": "Capellen",
+        "en": "Capellen",
+        "slug": "capellen-lu06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU06",
+        "level": 1,
+        "name": {
+          "local": "Capellen",
+          "en": "Capellen",
+          "slug": "capellen-lu06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.588",
+      "lon": "5.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU09C02",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Weiler-la-Tour",
+      "en": "Weiler-la-Tour",
+      "slug": "weiler-la-tour-lu09c02"
+    },
+    "code": {
+      "id": "LU09C02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU09",
+      "level": 1,
+      "name": {
+        "local": "Remich",
+        "en": "Remich",
+        "slug": "remich-lu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU09",
+        "level": 1,
+        "name": {
+          "local": "Remich",
+          "en": "Remich",
+          "slug": "remich-lu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.541",
+      "lon": "6.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU10C02",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Reisdorf",
+      "en": "Reisdorf",
+      "slug": "reisdorf-lu10c02"
+    },
+    "code": {
+      "id": "LU10C02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU10",
+      "level": 1,
+      "name": {
+        "local": "Echternach",
+        "en": "Echternach",
+        "slug": "echternach-lu10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU10",
+        "level": 1,
+        "name": {
+          "local": "Echternach",
+          "en": "Echternach",
+          "slug": "echternach-lu10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.869",
+      "lon": "6.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU08C02",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mersch",
+      "en": "Mersch",
+      "slug": "mersch-lu08c02"
+    },
+    "code": {
+      "id": "LU08C02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU08",
+      "level": 1,
+      "name": {
+        "local": "Mersch",
+        "en": "Mersch",
+        "slug": "mersch-lu08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU08",
+        "level": 1,
+        "name": {
+          "local": "Mersch",
+          "en": "Mersch",
+          "slug": "mersch-lu08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.749",
+      "lon": "6.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU06C04",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kopstal",
+      "en": "Kopstal",
+      "slug": "kopstal-lu06c04"
+    },
+    "code": {
+      "id": "LU06C04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU06",
+      "level": 1,
+      "name": {
+        "local": "Capellen",
+        "en": "Capellen",
+        "slug": "capellen-lu06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU06",
+        "level": 1,
+        "name": {
+          "local": "Capellen",
+          "en": "Capellen",
+          "slug": "capellen-lu06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.664",
+      "lon": "6.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU03C01",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Luxembourg",
+      "en": "Luxembourg",
+      "slug": "luxembourg-lu03c01"
+    },
+    "code": {
+      "id": "LU03C01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU03",
+      "level": 1,
+      "name": {
+        "local": "Luxembourg",
+        "en": "Luxembourg",
+        "slug": "luxembourg-lu03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU03",
+        "level": 1,
+        "name": {
+          "local": "Luxembourg",
+          "en": "Luxembourg",
+          "slug": "luxembourg-lu03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.613",
+      "lon": "6.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU09C03",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Waldbredimus",
+      "en": "Waldbredimus",
+      "slug": "waldbredimus-lu09c03"
+    },
+    "code": {
+      "id": "LU09C03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU09",
+      "level": 1,
+      "name": {
+        "local": "Remich",
+        "en": "Remich",
+        "slug": "remich-lu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU09",
+        "level": 1,
+        "name": {
+          "local": "Remich",
+          "en": "Remich",
+          "slug": "remich-lu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.555",
+      "lon": "6.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU08C03",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Heffingen",
+      "en": "Heffingen",
+      "slug": "heffingen-lu08c03"
+    },
+    "code": {
+      "id": "LU08C03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU08",
+      "level": 1,
+      "name": {
+        "local": "Mersch",
+        "en": "Mersch",
+        "slug": "mersch-lu08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU08",
+        "level": 1,
+        "name": {
+          "local": "Mersch",
+          "en": "Mersch",
+          "slug": "mersch-lu08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.763",
+      "lon": "6.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU08C04",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lintgen",
+      "en": "Lintgen",
+      "slug": "lintgen-lu08c04"
+    },
+    "code": {
+      "id": "LU08C04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU08",
+      "level": 1,
+      "name": {
+        "local": "Mersch",
+        "en": "Mersch",
+        "slug": "mersch-lu08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU08",
+        "level": 1,
+        "name": {
+          "local": "Mersch",
+          "en": "Mersch",
+          "slug": "mersch-lu08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.716",
+      "lon": "6.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU07C03",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mondercange",
+      "en": "Mondercange",
+      "slug": "mondercange-lu07c03"
+    },
+    "code": {
+      "id": "LU07C03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU07",
+      "level": 1,
+      "name": {
+        "local": "Esch-sur-Alzette",
+        "en": "Esch-sur-Alzette",
+        "slug": "esch-sur-alzette-lu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU07",
+        "level": 1,
+        "name": {
+          "local": "Esch-sur-Alzette",
+          "en": "Esch-sur-Alzette",
+          "slug": "esch-sur-alzette-lu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.529",
+      "lon": "5.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU02C02",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Biwer",
+      "en": "Biwer",
+      "slug": "biwer-lu02c02"
+    },
+    "code": {
+      "id": "LU02C02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU02",
+      "level": 1,
+      "name": {
+        "local": "Grevenmacher",
+        "en": "Grevenmacher",
+        "slug": "grevenmacher-lu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU02",
+        "level": 1,
+        "name": {
+          "local": "Grevenmacher",
+          "en": "Grevenmacher",
+          "slug": "grevenmacher-lu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.703",
+      "lon": "6.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU09C04",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bous",
+      "en": "Bous",
+      "slug": "bous-lu09c04"
+    },
+    "code": {
+      "id": "LU09C04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU09",
+      "level": 1,
+      "name": {
+        "local": "Remich",
+        "en": "Remich",
+        "slug": "remich-lu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU09",
+        "level": 1,
+        "name": {
+          "local": "Remich",
+          "en": "Remich",
+          "slug": "remich-lu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.554",
+      "lon": "6.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU02C03",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Junglinster",
+      "en": "Junglinster",
+      "slug": "junglinster-lu02c03"
+    },
+    "code": {
+      "id": "LU02C03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU02",
+      "level": 1,
+      "name": {
+        "local": "Grevenmacher",
+        "en": "Grevenmacher",
+        "slug": "grevenmacher-lu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU02",
+        "level": 1,
+        "name": {
+          "local": "Grevenmacher",
+          "en": "Grevenmacher",
+          "slug": "grevenmacher-lu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.707",
+      "lon": "6.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU04C04",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Goesdorf",
+      "en": "Goesdorf",
+      "slug": "goesdorf-lu04c04"
+    },
+    "code": {
+      "id": "LU04C04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU04",
+      "level": 1,
+      "name": {
+        "local": "Wiltz",
+        "en": "Wiltz",
+        "slug": "wiltz-lu04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU04",
+        "level": 1,
+        "name": {
+          "local": "Wiltz",
+          "en": "Wiltz",
+          "slug": "wiltz-lu04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.922",
+      "lon": "5.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU07C04",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sanem",
+      "en": "Sanem",
+      "slug": "sanem-lu07c04"
+    },
+    "code": {
+      "id": "LU07C04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU07",
+      "level": 1,
+      "name": {
+        "local": "Esch-sur-Alzette",
+        "en": "Esch-sur-Alzette",
+        "slug": "esch-sur-alzette-lu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU07",
+        "level": 1,
+        "name": {
+          "local": "Esch-sur-Alzette",
+          "en": "Esch-sur-Alzette",
+          "slug": "esch-sur-alzette-lu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.511",
+      "lon": "5.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU08C05",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bissen",
+      "en": "Bissen",
+      "slug": "bissen-lu08c05"
+    },
+    "code": {
+      "id": "LU08C05",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU08",
+      "level": 1,
+      "name": {
+        "local": "Mersch",
+        "en": "Mersch",
+        "slug": "mersch-lu08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU08",
+        "level": 1,
+        "name": {
+          "local": "Mersch",
+          "en": "Mersch",
+          "slug": "mersch-lu08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.788",
+      "lon": "6.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU10C03",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Echternach",
+      "en": "Echternach",
+      "slug": "echternach-lu10c03"
+    },
+    "code": {
+      "id": "LU10C03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU10",
+      "level": 1,
+      "name": {
+        "local": "Echternach",
+        "en": "Echternach",
+        "slug": "echternach-lu10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU10",
+        "level": 1,
+        "name": {
+          "local": "Echternach",
+          "en": "Echternach",
+          "slug": "echternach-lu10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.813",
+      "lon": "6.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU11C01",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vianden",
+      "en": "Vianden",
+      "slug": "vianden-lu11c01"
+    },
+    "code": {
+      "id": "LU11C01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU11",
+      "level": 1,
+      "name": {
+        "local": "Vianden",
+        "en": "Vianden",
+        "slug": "vianden-lu11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU11",
+        "level": 1,
+        "name": {
+          "local": "Vianden",
+          "en": "Vianden",
+          "slug": "vianden-lu11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.935",
+      "lon": "6.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU02C04",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Manternach",
+      "en": "Manternach",
+      "slug": "manternach-lu02c04"
+    },
+    "code": {
+      "id": "LU02C04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU02",
+      "level": 1,
+      "name": {
+        "local": "Grevenmacher",
+        "en": "Grevenmacher",
+        "slug": "grevenmacher-lu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU02",
+        "level": 1,
+        "name": {
+          "local": "Grevenmacher",
+          "en": "Grevenmacher",
+          "slug": "grevenmacher-lu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.703",
+      "lon": "6.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU10C04",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Waldbillig",
+      "en": "Waldbillig",
+      "slug": "waldbillig-lu10c04"
+    },
+    "code": {
+      "id": "LU10C04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU10",
+      "level": 1,
+      "name": {
+        "local": "Echternach",
+        "en": "Echternach",
+        "slug": "echternach-lu10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU10",
+        "level": 1,
+        "name": {
+          "local": "Echternach",
+          "en": "Echternach",
+          "slug": "echternach-lu10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.789",
+      "lon": "6.287"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU08C06",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Steinsel",
+      "en": "Steinsel",
+      "slug": "steinsel-lu08c06"
+    },
+    "code": {
+      "id": "LU08C06",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU08",
+      "level": 1,
+      "name": {
+        "local": "Mersch",
+        "en": "Mersch",
+        "slug": "mersch-lu08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU08",
+        "level": 1,
+        "name": {
+          "local": "Mersch",
+          "en": "Mersch",
+          "slug": "mersch-lu08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.677",
+      "lon": "6.124"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU08C07",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fischbach",
+      "en": "Fischbach",
+      "slug": "fischbach-lu08c07"
+    },
+    "code": {
+      "id": "LU08C07",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU08",
+      "level": 1,
+      "name": {
+        "local": "Mersch",
+        "en": "Mersch",
+        "slug": "mersch-lu08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU08",
+        "level": 1,
+        "name": {
+          "local": "Mersch",
+          "en": "Mersch",
+          "slug": "mersch-lu08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.74",
+      "lon": "6.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU06C05",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mamer",
+      "en": "Mamer",
+      "slug": "mamer-lu06c05"
+    },
+    "code": {
+      "id": "LU06C05",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU06",
+      "level": 1,
+      "name": {
+        "local": "Capellen",
+        "en": "Capellen",
+        "slug": "capellen-lu06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU06",
+        "level": 1,
+        "name": {
+          "local": "Capellen",
+          "en": "Capellen",
+          "slug": "capellen-lu06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.628",
+      "lon": "6.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU03C02",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hesperange",
+      "en": "Hesperange",
+      "slug": "hesperange-lu03c02"
+    },
+    "code": {
+      "id": "LU03C02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU03",
+      "level": 1,
+      "name": {
+        "local": "Luxembourg",
+        "en": "Luxembourg",
+        "slug": "luxembourg-lu03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU03",
+        "level": 1,
+        "name": {
+          "local": "Luxembourg",
+          "en": "Luxembourg",
+          "slug": "luxembourg-lu03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.568",
+      "lon": "6.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU04C05",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mertzig",
+      "en": "Mertzig",
+      "slug": "mertzig-lu04c05"
+    },
+    "code": {
+      "id": "LU04C05",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU04",
+      "level": 1,
+      "name": {
+        "local": "Wiltz",
+        "en": "Wiltz",
+        "slug": "wiltz-lu04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU04",
+        "level": 1,
+        "name": {
+          "local": "Wiltz",
+          "en": "Wiltz",
+          "slug": "wiltz-lu04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.834",
+      "lon": "6.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU05C02",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Wahl",
+      "en": "Wahl",
+      "slug": "wahl-lu05c02"
+    },
+    "code": {
+      "id": "LU05C02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU05",
+      "level": 1,
+      "name": {
+        "local": "Redange",
+        "en": "Redange",
+        "slug": "redange-lu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU05",
+        "level": 1,
+        "name": {
+          "local": "Redange",
+          "en": "Redange",
+          "slug": "redange-lu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.837",
+      "lon": "5.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU05C03",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ell",
+      "en": "Ell",
+      "slug": "ell-lu05c03"
+    },
+    "code": {
+      "id": "LU05C03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU05",
+      "level": 1,
+      "name": {
+        "local": "Redange",
+        "en": "Redange",
+        "slug": "redange-lu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU05",
+        "level": 1,
+        "name": {
+          "local": "Redange",
+          "en": "Redange",
+          "slug": "redange-lu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.764",
+      "lon": "5.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU08C08",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ettelbruck",
+      "en": "Ettelbruck",
+      "slug": "ettelbruck-lu08c08"
+    },
+    "code": {
+      "id": "LU08C08",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU08",
+      "level": 1,
+      "name": {
+        "local": "Mersch",
+        "en": "Mersch",
+        "slug": "mersch-lu08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU08",
+        "level": 1,
+        "name": {
+          "local": "Mersch",
+          "en": "Mersch",
+          "slug": "mersch-lu08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.833",
+      "lon": "6.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU09C05",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Wormeldange",
+      "en": "Wormeldange",
+      "slug": "wormeldange-lu09c05"
+    },
+    "code": {
+      "id": "LU09C05",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU09",
+      "level": 1,
+      "name": {
+        "local": "Remich",
+        "en": "Remich",
+        "slug": "remich-lu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU09",
+        "level": 1,
+        "name": {
+          "local": "Remich",
+          "en": "Remich",
+          "slug": "remich-lu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.608",
+      "lon": "6.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU04C06",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kiischpelt",
+      "en": "Kiischpelt",
+      "slug": "kiischpelt-lu04c06"
+    },
+    "code": {
+      "id": "LU04C06",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU04",
+      "level": 1,
+      "name": {
+        "local": "Wiltz",
+        "en": "Wiltz",
+        "slug": "wiltz-lu04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU04",
+        "level": 1,
+        "name": {
+          "local": "Wiltz",
+          "en": "Wiltz",
+          "slug": "wiltz-lu04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.949",
+      "lon": "6.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU03C03",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Strassen",
+      "en": "Strassen",
+      "slug": "strassen-lu03c03"
+    },
+    "code": {
+      "id": "LU03C03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU03",
+      "level": 1,
+      "name": {
+        "local": "Luxembourg",
+        "en": "Luxembourg",
+        "slug": "luxembourg-lu03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU03",
+        "level": 1,
+        "name": {
+          "local": "Luxembourg",
+          "en": "Luxembourg",
+          "slug": "luxembourg-lu03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.621",
+      "lon": "6.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU07C05",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Rumelange",
+      "en": "Rumelange",
+      "slug": "rumelange-lu07c05"
+    },
+    "code": {
+      "id": "LU07C05",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU07",
+      "level": 1,
+      "name": {
+        "local": "Esch-sur-Alzette",
+        "en": "Esch-sur-Alzette",
+        "slug": "esch-sur-alzette-lu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU07",
+        "level": 1,
+        "name": {
+          "local": "Esch-sur-Alzette",
+          "en": "Esch-sur-Alzette",
+          "slug": "esch-sur-alzette-lu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.466",
+      "lon": "6.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU07C06",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Roeser",
+      "en": "Roeser",
+      "slug": "roeser-lu07c06"
+    },
+    "code": {
+      "id": "LU07C06",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU07",
+      "level": 1,
+      "name": {
+        "local": "Esch-sur-Alzette",
+        "en": "Esch-sur-Alzette",
+        "slug": "esch-sur-alzette-lu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU07",
+        "level": 1,
+        "name": {
+          "local": "Esch-sur-Alzette",
+          "en": "Esch-sur-Alzette",
+          "slug": "esch-sur-alzette-lu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.525",
+      "lon": "6.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU12C01",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Parc Hosingen",
+      "en": "Parc Hosingen",
+      "slug": "parc-hosingen-lu12c01"
+    },
+    "code": {
+      "id": "LU12C01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU12",
+      "level": 1,
+      "name": {
+        "local": "Clervaux",
+        "en": "Clervaux",
+        "slug": "clervaux-lu12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU12",
+        "level": 1,
+        "name": {
+          "local": "Clervaux",
+          "en": "Clervaux",
+          "slug": "clervaux-lu12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.016",
+      "lon": "6.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU05C04",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beckerich",
+      "en": "Beckerich",
+      "slug": "beckerich-lu05c04"
+    },
+    "code": {
+      "id": "LU05C04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU05",
+      "level": 1,
+      "name": {
+        "local": "Redange",
+        "en": "Redange",
+        "slug": "redange-lu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU05",
+        "level": 1,
+        "name": {
+          "local": "Redange",
+          "en": "Redange",
+          "slug": "redange-lu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.731",
+      "lon": "5.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU02C05",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Betzdorf",
+      "en": "Betzdorf",
+      "slug": "betzdorf-lu02c05"
+    },
+    "code": {
+      "id": "LU02C05",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU02",
+      "level": 1,
+      "name": {
+        "local": "Grevenmacher",
+        "en": "Grevenmacher",
+        "slug": "grevenmacher-lu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU02",
+        "level": 1,
+        "name": {
+          "local": "Grevenmacher",
+          "en": "Grevenmacher",
+          "slug": "grevenmacher-lu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.683",
+      "lon": "6.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU09C06",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lenningen",
+      "en": "Lenningen",
+      "slug": "lenningen-lu09c06"
+    },
+    "code": {
+      "id": "LU09C06",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU09",
+      "level": 1,
+      "name": {
+        "local": "Remich",
+        "en": "Remich",
+        "slug": "remich-lu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU09",
+        "level": 1,
+        "name": {
+          "local": "Remich",
+          "en": "Remich",
+          "slug": "remich-lu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.599",
+      "lon": "6.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU09C07",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Remich",
+      "en": "Remich",
+      "slug": "remich-lu09c07"
+    },
+    "code": {
+      "id": "LU09C07",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU09",
+      "level": 1,
+      "name": {
+        "local": "Remich",
+        "en": "Remich",
+        "slug": "remich-lu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU09",
+        "level": 1,
+        "name": {
+          "local": "Remich",
+          "en": "Remich",
+          "slug": "remich-lu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.545",
+      "lon": "6.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU10C05",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bech",
+      "en": "Bech",
+      "slug": "bech-lu10c05"
+    },
+    "code": {
+      "id": "LU10C05",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU10",
+      "level": 1,
+      "name": {
+        "local": "Echternach",
+        "en": "Echternach",
+        "slug": "echternach-lu10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU10",
+        "level": 1,
+        "name": {
+          "local": "Echternach",
+          "en": "Echternach",
+          "slug": "echternach-lu10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.746",
+      "lon": "6.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU11C02",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bourscheid",
+      "en": "Bourscheid",
+      "slug": "bourscheid-lu11c02"
+    },
+    "code": {
+      "id": "LU11C02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU11",
+      "level": 1,
+      "name": {
+        "local": "Vianden",
+        "en": "Vianden",
+        "slug": "vianden-lu11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU11",
+        "level": 1,
+        "name": {
+          "local": "Vianden",
+          "en": "Vianden",
+          "slug": "vianden-lu11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.91",
+      "lon": "6.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU04C07",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Esch-sur-Sûre",
+      "en": "Esch-sur-Sûre",
+      "slug": "esch-sur-sure-lu04c07"
+    },
+    "code": {
+      "id": "LU04C07",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU04",
+      "level": 1,
+      "name": {
+        "local": "Wiltz",
+        "en": "Wiltz",
+        "slug": "wiltz-lu04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU04",
+        "level": 1,
+        "name": {
+          "local": "Wiltz",
+          "en": "Wiltz",
+          "slug": "wiltz-lu04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.911",
+      "lon": "5.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU09C08",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Stadtbredimus",
+      "en": "Stadtbredimus",
+      "slug": "stadtbredimus-lu09c08"
+    },
+    "code": {
+      "id": "LU09C08",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU09",
+      "level": 1,
+      "name": {
+        "local": "Remich",
+        "en": "Remich",
+        "slug": "remich-lu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU09",
+        "level": 1,
+        "name": {
+          "local": "Remich",
+          "en": "Remich",
+          "slug": "remich-lu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.563",
+      "lon": "6.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU06C06",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Steinfort",
+      "en": "Steinfort",
+      "slug": "steinfort-lu06c06"
+    },
+    "code": {
+      "id": "LU06C06",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU06",
+      "level": 1,
+      "name": {
+        "local": "Capellen",
+        "en": "Capellen",
+        "slug": "capellen-lu06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU06",
+        "level": 1,
+        "name": {
+          "local": "Capellen",
+          "en": "Capellen",
+          "slug": "capellen-lu06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.661",
+      "lon": "5.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU10C06",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Berdorf",
+      "en": "Berdorf",
+      "slug": "berdorf-lu10c06"
+    },
+    "code": {
+      "id": "LU10C06",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU10",
+      "level": 1,
+      "name": {
+        "local": "Echternach",
+        "en": "Echternach",
+        "slug": "echternach-lu10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU10",
+        "level": 1,
+        "name": {
+          "local": "Echternach",
+          "en": "Echternach",
+          "slug": "echternach-lu10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.814",
+      "lon": "6.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU11C03",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bettendorf",
+      "en": "Bettendorf",
+      "slug": "bettendorf-lu11c03"
+    },
+    "code": {
+      "id": "LU11C03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU11",
+      "level": 1,
+      "name": {
+        "local": "Vianden",
+        "en": "Vianden",
+        "slug": "vianden-lu11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU11",
+        "level": 1,
+        "name": {
+          "local": "Vianden",
+          "en": "Vianden",
+          "slug": "vianden-lu11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.877",
+      "lon": "6.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU12C02",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Weiswampach",
+      "en": "Weiswampach",
+      "slug": "weiswampach-lu12c02"
+    },
+    "code": {
+      "id": "LU12C02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU12",
+      "level": 1,
+      "name": {
+        "local": "Clervaux",
+        "en": "Clervaux",
+        "slug": "clervaux-lu12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU12",
+        "level": 1,
+        "name": {
+          "local": "Clervaux",
+          "en": "Clervaux",
+          "slug": "clervaux-lu12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.138",
+      "lon": "6.072"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU12C03",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Troisvierges",
+      "en": "Troisvierges",
+      "slug": "troisvierges-lu12c03"
+    },
+    "code": {
+      "id": "LU12C03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU12",
+      "level": 1,
+      "name": {
+        "local": "Clervaux",
+        "en": "Clervaux",
+        "slug": "clervaux-lu12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU12",
+        "level": 1,
+        "name": {
+          "local": "Clervaux",
+          "en": "Clervaux",
+          "slug": "clervaux-lu12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.121",
+      "lon": "5.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU03C04",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Walferdange",
+      "en": "Walferdange",
+      "slug": "walferdange-lu03c04"
+    },
+    "code": {
+      "id": "LU03C04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU03",
+      "level": 1,
+      "name": {
+        "local": "Luxembourg",
+        "en": "Luxembourg",
+        "slug": "luxembourg-lu03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU03",
+        "level": 1,
+        "name": {
+          "local": "Luxembourg",
+          "en": "Luxembourg",
+          "slug": "luxembourg-lu03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.658",
+      "lon": "6.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU07C07",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dudelange",
+      "en": "Dudelange",
+      "slug": "dudelange-lu07c07"
+    },
+    "code": {
+      "id": "LU07C07",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU07",
+      "level": 1,
+      "name": {
+        "local": "Esch-sur-Alzette",
+        "en": "Esch-sur-Alzette",
+        "slug": "esch-sur-alzette-lu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU07",
+        "level": 1,
+        "name": {
+          "local": "Esch-sur-Alzette",
+          "en": "Esch-sur-Alzette",
+          "slug": "esch-sur-alzette-lu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.476",
+      "lon": "6.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU07C08",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bettembourg",
+      "en": "Bettembourg",
+      "slug": "bettembourg-lu07c08"
+    },
+    "code": {
+      "id": "LU07C08",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU07",
+      "level": 1,
+      "name": {
+        "local": "Esch-sur-Alzette",
+        "en": "Esch-sur-Alzette",
+        "slug": "esch-sur-alzette-lu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU07",
+        "level": 1,
+        "name": {
+          "local": "Esch-sur-Alzette",
+          "en": "Esch-sur-Alzette",
+          "slug": "esch-sur-alzette-lu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.516",
+      "lon": "6.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU09C09",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sandweiler",
+      "en": "Sandweiler",
+      "slug": "sandweiler-lu09c09"
+    },
+    "code": {
+      "id": "LU09C09",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU09",
+      "level": 1,
+      "name": {
+        "local": "Remich",
+        "en": "Remich",
+        "slug": "remich-lu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU09",
+        "level": 1,
+        "name": {
+          "local": "Remich",
+          "en": "Remich",
+          "slug": "remich-lu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.613",
+      "lon": "6.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU04C08",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boulaide",
+      "en": "Boulaide",
+      "slug": "boulaide-lu04c08"
+    },
+    "code": {
+      "id": "LU04C08",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU04",
+      "level": 1,
+      "name": {
+        "local": "Wiltz",
+        "en": "Wiltz",
+        "slug": "wiltz-lu04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU04",
+        "level": 1,
+        "name": {
+          "local": "Wiltz",
+          "en": "Wiltz",
+          "slug": "wiltz-lu04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.888",
+      "lon": "5.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU07C09",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Esch-sur-Alzette",
+      "en": "Esch-sur-Alzette",
+      "slug": "esch-sur-alzette-lu07c09"
+    },
+    "code": {
+      "id": "LU07C09",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU07",
+      "level": 1,
+      "name": {
+        "local": "Esch-sur-Alzette",
+        "en": "Esch-sur-Alzette",
+        "slug": "esch-sur-alzette-lu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU07",
+        "level": 1,
+        "name": {
+          "local": "Esch-sur-Alzette",
+          "en": "Esch-sur-Alzette",
+          "slug": "esch-sur-alzette-lu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.496",
+      "lon": "5.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU09C10",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mondorf-les-Bains",
+      "en": "Mondorf-les-Bains",
+      "slug": "mondorf-les-bains-lu09c10"
+    },
+    "code": {
+      "id": "LU09C10",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU09",
+      "level": 1,
+      "name": {
+        "local": "Remich",
+        "en": "Remich",
+        "slug": "remich-lu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU09",
+        "level": 1,
+        "name": {
+          "local": "Remich",
+          "en": "Remich",
+          "slug": "remich-lu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.505",
+      "lon": "6.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU03C05",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bertrange",
+      "en": "Bertrange",
+      "slug": "bertrange-lu03c05"
+    },
+    "code": {
+      "id": "LU03C05",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU03",
+      "level": 1,
+      "name": {
+        "local": "Luxembourg",
+        "en": "Luxembourg",
+        "slug": "luxembourg-lu03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU03",
+        "level": 1,
+        "name": {
+          "local": "Luxembourg",
+          "en": "Luxembourg",
+          "slug": "luxembourg-lu03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.611",
+      "lon": "6.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU06C07",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Koerich",
+      "en": "Koerich",
+      "slug": "koerich-lu06c07"
+    },
+    "code": {
+      "id": "LU06C07",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU06",
+      "level": 1,
+      "name": {
+        "local": "Capellen",
+        "en": "Capellen",
+        "slug": "capellen-lu06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU06",
+        "level": 1,
+        "name": {
+          "local": "Capellen",
+          "en": "Capellen",
+          "slug": "capellen-lu06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.67",
+      "lon": "5.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU02C06",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mertert",
+      "en": "Mertert",
+      "slug": "mertert-lu02c06"
+    },
+    "code": {
+      "id": "LU02C06",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU02",
+      "level": 1,
+      "name": {
+        "local": "Grevenmacher",
+        "en": "Grevenmacher",
+        "slug": "grevenmacher-lu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU02",
+        "level": 1,
+        "name": {
+          "local": "Grevenmacher",
+          "en": "Grevenmacher",
+          "slug": "grevenmacher-lu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.717",
+      "lon": "6.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU08C09",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lorentzweiler",
+      "en": "Lorentzweiler",
+      "slug": "lorentzweiler-lu08c09"
+    },
+    "code": {
+      "id": "LU08C09",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU08",
+      "level": 1,
+      "name": {
+        "local": "Mersch",
+        "en": "Mersch",
+        "slug": "mersch-lu08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU08",
+        "level": 1,
+        "name": {
+          "local": "Mersch",
+          "en": "Mersch",
+          "slug": "mersch-lu08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.695",
+      "lon": "6.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU05C05",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Useldange",
+      "en": "Useldange",
+      "slug": "useldange-lu05c05"
+    },
+    "code": {
+      "id": "LU05C05",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU05",
+      "level": 1,
+      "name": {
+        "local": "Redange",
+        "en": "Redange",
+        "slug": "redange-lu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU05",
+        "level": 1,
+        "name": {
+          "local": "Redange",
+          "en": "Redange",
+          "slug": "redange-lu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.77",
+      "lon": "5.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU09C11",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Schuttrange",
+      "en": "Schuttrange",
+      "slug": "schuttrange-lu09c11"
+    },
+    "code": {
+      "id": "LU09C11",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU09",
+      "level": 1,
+      "name": {
+        "local": "Remich",
+        "en": "Remich",
+        "slug": "remich-lu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU09",
+        "level": 1,
+        "name": {
+          "local": "Remich",
+          "en": "Remich",
+          "slug": "remich-lu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.621",
+      "lon": "6.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU06C08",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kehlen",
+      "en": "Kehlen",
+      "slug": "kehlen-lu06c08"
+    },
+    "code": {
+      "id": "LU06C08",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU06",
+      "level": 1,
+      "name": {
+        "local": "Capellen",
+        "en": "Capellen",
+        "slug": "capellen-lu06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU06",
+        "level": 1,
+        "name": {
+          "local": "Capellen",
+          "en": "Capellen",
+          "slug": "capellen-lu06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.668",
+      "lon": "6.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU11C04",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Erpeldange-sur-Sûre",
+      "en": "Erpeldange-sur-Sûre",
+      "slug": "erpeldange-sur-sure-lu11c04"
+    },
+    "code": {
+      "id": "LU11C04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU11",
+      "level": 1,
+      "name": {
+        "local": "Vianden",
+        "en": "Vianden",
+        "slug": "vianden-lu11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU11",
+        "level": 1,
+        "name": {
+          "local": "Vianden",
+          "en": "Vianden",
+          "slug": "vianden-lu11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.865",
+      "lon": "6.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU11C05",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Diekirch",
+      "en": "Diekirch",
+      "slug": "diekirch-lu11c05"
+    },
+    "code": {
+      "id": "LU11C05",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU11",
+      "level": 1,
+      "name": {
+        "local": "Vianden",
+        "en": "Vianden",
+        "slug": "vianden-lu11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU11",
+        "level": 1,
+        "name": {
+          "local": "Vianden",
+          "en": "Vianden",
+          "slug": "vianden-lu11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.917",
+      "lon": "6.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU04C09",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Wiltz",
+      "en": "Wiltz",
+      "slug": "wiltz-lu04c09"
+    },
+    "code": {
+      "id": "LU04C09",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU04",
+      "level": 1,
+      "name": {
+        "local": "Wiltz",
+        "en": "Wiltz",
+        "slug": "wiltz-lu04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU04",
+        "level": 1,
+        "name": {
+          "local": "Wiltz",
+          "en": "Wiltz",
+          "slug": "wiltz-lu04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.917",
+      "lon": "5.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU07C10",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Leudelange",
+      "en": "Leudelange",
+      "slug": "leudelange-lu07c10"
+    },
+    "code": {
+      "id": "LU07C10",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU07",
+      "level": 1,
+      "name": {
+        "local": "Esch-sur-Alzette",
+        "en": "Esch-sur-Alzette",
+        "slug": "esch-sur-alzette-lu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU07",
+        "level": 1,
+        "name": {
+          "local": "Esch-sur-Alzette",
+          "en": "Esch-sur-Alzette",
+          "slug": "esch-sur-alzette-lu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.567",
+      "lon": "6.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU10C07",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beaufort",
+      "en": "Beaufort",
+      "slug": "beaufort-lu10c07"
+    },
+    "code": {
+      "id": "LU10C07",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU10",
+      "level": 1,
+      "name": {
+        "local": "Echternach",
+        "en": "Echternach",
+        "slug": "echternach-lu10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU10",
+        "level": 1,
+        "name": {
+          "local": "Echternach",
+          "en": "Echternach",
+          "slug": "echternach-lu10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.836",
+      "lon": "6.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU08C10",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Larochette",
+      "en": "Larochette",
+      "slug": "larochette-lu08c10"
+    },
+    "code": {
+      "id": "LU08C10",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU08",
+      "level": 1,
+      "name": {
+        "local": "Mersch",
+        "en": "Mersch",
+        "slug": "mersch-lu08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU08",
+        "level": 1,
+        "name": {
+          "local": "Mersch",
+          "en": "Mersch",
+          "slug": "mersch-lu08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.778",
+      "lon": "6.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU05C06",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Redange/Attert",
+      "en": "Redange/Attert",
+      "slug": "redange-attert-lu05c06"
+    },
+    "code": {
+      "id": "LU05C06",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU05",
+      "level": 1,
+      "name": {
+        "local": "Redange",
+        "en": "Redange",
+        "slug": "redange-lu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU05",
+        "level": 1,
+        "name": {
+          "local": "Redange",
+          "en": "Redange",
+          "slug": "redange-lu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.766",
+      "lon": "5.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU07C11",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kayl",
+      "en": "Kayl",
+      "slug": "kayl-lu07c11"
+    },
+    "code": {
+      "id": "LU07C11",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU07",
+      "level": 1,
+      "name": {
+        "local": "Esch-sur-Alzette",
+        "en": "Esch-sur-Alzette",
+        "slug": "esch-sur-alzette-lu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU07",
+        "level": 1,
+        "name": {
+          "local": "Esch-sur-Alzette",
+          "en": "Esch-sur-Alzette",
+          "slug": "esch-sur-alzette-lu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.486",
+      "lon": "6.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU07C12",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Frisange",
+      "en": "Frisange",
+      "slug": "frisange-lu07c12"
+    },
+    "code": {
+      "id": "LU07C12",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU07",
+      "level": 1,
+      "name": {
+        "local": "Esch-sur-Alzette",
+        "en": "Esch-sur-Alzette",
+        "slug": "esch-sur-alzette-lu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU07",
+        "level": 1,
+        "name": {
+          "local": "Esch-sur-Alzette",
+          "en": "Esch-sur-Alzette",
+          "slug": "esch-sur-alzette-lu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.524",
+      "lon": "6.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU09C12",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Niederanven",
+      "en": "Niederanven",
+      "slug": "niederanven-lu09c12"
+    },
+    "code": {
+      "id": "LU09C12",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU09",
+      "level": 1,
+      "name": {
+        "local": "Remich",
+        "en": "Remich",
+        "slug": "remich-lu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU09",
+        "level": 1,
+        "name": {
+          "local": "Remich",
+          "en": "Remich",
+          "slug": "remich-lu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.648",
+      "lon": "6.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU11C06",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Putscheid",
+      "en": "Putscheid",
+      "slug": "putscheid-lu11c06"
+    },
+    "code": {
+      "id": "LU11C06",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU11",
+      "level": 1,
+      "name": {
+        "local": "Vianden",
+        "en": "Vianden",
+        "slug": "vianden-lu11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU11",
+        "level": 1,
+        "name": {
+          "local": "Vianden",
+          "en": "Vianden",
+          "slug": "vianden-lu11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.961",
+      "lon": "6.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU05C07",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Rambrouch",
+      "en": "Rambrouch",
+      "slug": "rambrouch-lu05c07"
+    },
+    "code": {
+      "id": "LU05C07",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU05",
+      "level": 1,
+      "name": {
+        "local": "Redange",
+        "en": "Redange",
+        "slug": "redange-lu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU05",
+        "level": 1,
+        "name": {
+          "local": "Redange",
+          "en": "Redange",
+          "slug": "redange-lu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.831",
+      "lon": "5.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU12C04",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Clervaux",
+      "en": "Clervaux",
+      "slug": "clervaux-lu12c04"
+    },
+    "code": {
+      "id": "LU12C04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU12",
+      "level": 1,
+      "name": {
+        "local": "Clervaux",
+        "en": "Clervaux",
+        "slug": "clervaux-lu12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU12",
+        "level": 1,
+        "name": {
+          "local": "Clervaux",
+          "en": "Clervaux",
+          "slug": "clervaux-lu12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.054",
+      "lon": "6.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU02C07",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Grevenmacher",
+      "en": "Grevenmacher",
+      "slug": "grevenmacher-lu02c07"
+    },
+    "code": {
+      "id": "LU02C07",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU02",
+      "level": 1,
+      "name": {
+        "local": "Grevenmacher",
+        "en": "Grevenmacher",
+        "slug": "grevenmacher-lu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU02",
+        "level": 1,
+        "name": {
+          "local": "Grevenmacher",
+          "en": "Grevenmacher",
+          "slug": "grevenmacher-lu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.667",
+      "lon": "6.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU08C11",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Schieren",
+      "en": "Schieren",
+      "slug": "schieren-lu08c11"
+    },
+    "code": {
+      "id": "LU08C11",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU08",
+      "level": 1,
+      "name": {
+        "local": "Mersch",
+        "en": "Mersch",
+        "slug": "mersch-lu08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU08",
+        "level": 1,
+        "name": {
+          "local": "Mersch",
+          "en": "Mersch",
+          "slug": "mersch-lu08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.825",
+      "lon": "6.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU05C08",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Saeul",
+      "en": "Saeul",
+      "slug": "saeul-lu05c08"
+    },
+    "code": {
+      "id": "LU05C08",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU05",
+      "level": 1,
+      "name": {
+        "local": "Redange",
+        "en": "Redange",
+        "slug": "redange-lu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU05",
+        "level": 1,
+        "name": {
+          "local": "Redange",
+          "en": "Redange",
+          "slug": "redange-lu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.735",
+      "lon": "5.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU07C13",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Reckange-sur-Mess",
+      "en": "Reckange-sur-Mess",
+      "slug": "reckange-sur-mess-lu07c13"
+    },
+    "code": {
+      "id": "LU07C13",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU07",
+      "level": 1,
+      "name": {
+        "local": "Esch-sur-Alzette",
+        "en": "Esch-sur-Alzette",
+        "slug": "esch-sur-alzette-lu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU07",
+        "level": 1,
+        "name": {
+          "local": "Esch-sur-Alzette",
+          "en": "Esch-sur-Alzette",
+          "slug": "esch-sur-alzette-lu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.559",
+      "lon": "6.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU08C12",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Colmar-Berg",
+      "en": "Colmar-Berg",
+      "slug": "colmar-berg-lu08c12"
+    },
+    "code": {
+      "id": "LU08C12",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU08",
+      "level": 1,
+      "name": {
+        "local": "Mersch",
+        "en": "Mersch",
+        "slug": "mersch-lu08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU08",
+        "level": 1,
+        "name": {
+          "local": "Mersch",
+          "en": "Mersch",
+          "slug": "mersch-lu08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.811",
+      "lon": "6.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU05C09",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vichten",
+      "en": "Vichten",
+      "slug": "vichten-lu05c09"
+    },
+    "code": {
+      "id": "LU05C09",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU05",
+      "level": 1,
+      "name": {
+        "local": "Redange",
+        "en": "Redange",
+        "slug": "redange-lu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU05",
+        "level": 1,
+        "name": {
+          "local": "Redange",
+          "en": "Redange",
+          "slug": "redange-lu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.805",
+      "lon": "6.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU05C10",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Préizerdaul",
+      "en": "Préizerdaul",
+      "slug": "preizerdaul-lu05c10"
+    },
+    "code": {
+      "id": "LU05C10",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU05",
+      "level": 1,
+      "name": {
+        "local": "Redange",
+        "en": "Redange",
+        "slug": "redange-lu05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU05",
+        "level": 1,
+        "name": {
+          "local": "Redange",
+          "en": "Redange",
+          "slug": "redange-lu05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.801",
+      "lon": "5.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU06C09",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "KÃ¤erjeng",
+      "en": "KÃ¤erjeng",
+      "slug": "ka-erjeng-lu06c09"
+    },
+    "code": {
+      "id": "LU06C09",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU06",
+      "level": 1,
+      "name": {
+        "local": "Capellen",
+        "en": "Capellen",
+        "slug": "capellen-lu06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU06",
+        "level": 1,
+        "name": {
+          "local": "Capellen",
+          "en": "Capellen",
+          "slug": "capellen-lu06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.584",
+      "lon": "5.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU08C13",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Helperknapp",
+      "en": "Helperknapp",
+      "slug": "helperknapp-lu08c13"
+    },
+    "code": {
+      "id": "LU08C13",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU08",
+      "level": 1,
+      "name": {
+        "local": "Mersch",
+        "en": "Mersch",
+        "slug": "mersch-lu08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU08",
+        "level": 1,
+        "name": {
+          "local": "Mersch",
+          "en": "Mersch",
+          "slug": "mersch-lu08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.719",
+      "lon": "6.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU09C13",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Schengen",
+      "en": "Schengen",
+      "slug": "schengen-lu09c13"
+    },
+    "code": {
+      "id": "LU09C13",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU09",
+      "level": 1,
+      "name": {
+        "local": "Remich",
+        "en": "Remich",
+        "slug": "remich-lu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU09",
+        "level": 1,
+        "name": {
+          "local": "Remich",
+          "en": "Remich",
+          "slug": "remich-lu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.499",
+      "lon": "6.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU09C14",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Contern",
+      "en": "Contern",
+      "slug": "contern-lu09c14"
+    },
+    "code": {
+      "id": "LU09C14",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU09",
+      "level": 1,
+      "name": {
+        "local": "Remich",
+        "en": "Remich",
+        "slug": "remich-lu09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU09",
+        "level": 1,
+        "name": {
+          "local": "Remich",
+          "en": "Remich",
+          "slug": "remich-lu09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.588",
+      "lon": "6.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU11C07",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tandel",
+      "en": "Tandel",
+      "slug": "tandel-lu11c07"
+    },
+    "code": {
+      "id": "LU11C07",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU11",
+      "level": 1,
+      "name": {
+        "local": "Vianden",
+        "en": "Vianden",
+        "slug": "vianden-lu11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU11",
+        "level": 1,
+        "name": {
+          "local": "Vianden",
+          "en": "Vianden",
+          "slug": "vianden-lu11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.911",
+      "lon": "6.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU12C05",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Wincrange",
+      "en": "Wincrange",
+      "slug": "wincrange-lu12c05"
+    },
+    "code": {
+      "id": "LU12C05",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU12",
+      "level": 1,
+      "name": {
+        "local": "Clervaux",
+        "en": "Clervaux",
+        "slug": "clervaux-lu12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU12",
+        "level": 1,
+        "name": {
+          "local": "Clervaux",
+          "en": "Clervaux",
+          "slug": "clervaux-lu12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.075",
+      "lon": "5.931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU10C08",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Rosport-Mompach",
+      "en": "Rosport-Mompach",
+      "slug": "rosport-mompach-lu10c08"
+    },
+    "code": {
+      "id": "LU10C08",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU10",
+      "level": 1,
+      "name": {
+        "local": "Echternach",
+        "en": "Echternach",
+        "slug": "echternach-lu10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU10",
+        "level": 1,
+        "name": {
+          "local": "Echternach",
+          "en": "Echternach",
+          "slug": "echternach-lu10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.767",
+      "lon": "6.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU08C14",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vallée de l'Ernz",
+      "en": "Vallée de l'Ernz",
+      "slug": "vallee-de-l-ernz-lu08c14"
+    },
+    "code": {
+      "id": "LU08C14",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU08",
+      "level": 1,
+      "name": {
+        "local": "Mersch",
+        "en": "Mersch",
+        "slug": "mersch-lu08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU08",
+        "level": 1,
+        "name": {
+          "local": "Mersch",
+          "en": "Mersch",
+          "slug": "mersch-lu08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.822",
+      "lon": "6.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU07C14",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Schifflange",
+      "en": "Schifflange",
+      "slug": "schifflange-lu07c14"
+    },
+    "code": {
+      "id": "LU07C14",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU07",
+      "level": 1,
+      "name": {
+        "local": "Esch-sur-Alzette",
+        "en": "Esch-sur-Alzette",
+        "slug": "esch-sur-alzette-lu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU07",
+        "level": 1,
+        "name": {
+          "local": "Esch-sur-Alzette",
+          "en": "Esch-sur-Alzette",
+          "slug": "esch-sur-alzette-lu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.508",
+      "lon": "6.015"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

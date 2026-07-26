@@ -1,0 +1,45 @@
+{
+  "id": "LU05C03",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ell",
+    "en": "Ell",
+    "slug": "ell-lu05c03"
+  },
+  "code": {
+    "id": "LU05C03",
+    "iso": null
+  },
+  "parent": {
+    "id": "LU05",
+    "level": 1,
+    "name": {
+      "local": "Redange",
+      "en": "Redange",
+      "slug": "redange-lu05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LU05",
+      "level": 1,
+      "name": {
+        "local": "Redange",
+        "en": "Redange",
+        "slug": "redange-lu05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.764",
+    "lon": "5.857"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "LU11C03",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Bettendorf",
+    "en": "Bettendorf",
+    "slug": "bettendorf-lu11c03"
+  },
+  "code": {
+    "id": "LU11C03",
+    "iso": null
+  },
+  "parent": {
+    "id": "LU11",
+    "level": 1,
+    "name": {
+      "local": "Vianden",
+      "en": "Vianden",
+      "slug": "vianden-lu11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LU11",
+      "level": 1,
+      "name": {
+        "local": "Vianden",
+        "en": "Vianden",
+        "slug": "vianden-lu11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.877",
+    "lon": "6.218"
+  },
+  "metadata": {},
+  "source": {}
+}

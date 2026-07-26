@@ -1,0 +1,45 @@
+{
+  "id": "LU04C01",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Lac de la Haute Sûre",
+    "en": "Lac de la Haute Sûre",
+    "slug": "lac-de-la-haute-sure-lu04c01"
+  },
+  "code": {
+    "id": "LU04C01",
+    "iso": null
+  },
+  "parent": {
+    "id": "LU04",
+    "level": 1,
+    "name": {
+      "local": "Wiltz",
+      "en": "Wiltz",
+      "slug": "wiltz-lu04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LU04",
+      "level": 1,
+      "name": {
+        "local": "Wiltz",
+        "en": "Wiltz",
+        "slug": "wiltz-lu04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.909",
+    "lon": "5.876"
+  },
+  "metadata": {},
+  "source": {}
+}

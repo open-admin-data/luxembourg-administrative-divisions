@@ -1,0 +1,45 @@
+{
+  "id": "LU09C13",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Schengen",
+    "en": "Schengen",
+    "slug": "schengen-lu09c13"
+  },
+  "code": {
+    "id": "LU09C13",
+    "iso": null
+  },
+  "parent": {
+    "id": "LU09",
+    "level": 1,
+    "name": {
+      "local": "Remich",
+      "en": "Remich",
+      "slug": "remich-lu09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LU09",
+      "level": 1,
+      "name": {
+        "local": "Remich",
+        "en": "Remich",
+        "slug": "remich-lu09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.499",
+    "lon": "6.338"
+  },
+  "metadata": {},
+  "source": {}
+}

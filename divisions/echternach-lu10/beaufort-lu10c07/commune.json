@@ -1,0 +1,45 @@
+{
+  "id": "LU10C07",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Beaufort",
+    "en": "Beaufort",
+    "slug": "beaufort-lu10c07"
+  },
+  "code": {
+    "id": "LU10C07",
+    "iso": null
+  },
+  "parent": {
+    "id": "LU10",
+    "level": 1,
+    "name": {
+      "local": "Echternach",
+      "en": "Echternach",
+      "slug": "echternach-lu10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LU10",
+      "level": 1,
+      "name": {
+        "local": "Echternach",
+        "en": "Echternach",
+        "slug": "echternach-lu10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.836",
+    "lon": "6.292"
+  },
+  "metadata": {},
+  "source": {}
+}

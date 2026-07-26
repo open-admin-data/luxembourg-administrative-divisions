@@ -1,0 +1,45 @@
+{
+  "id": "LU09C12",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Niederanven",
+    "en": "Niederanven",
+    "slug": "niederanven-lu09c12"
+  },
+  "code": {
+    "id": "LU09C12",
+    "iso": null
+  },
+  "parent": {
+    "id": "LU09",
+    "level": 1,
+    "name": {
+      "local": "Remich",
+      "en": "Remich",
+      "slug": "remich-lu09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LU09",
+      "level": 1,
+      "name": {
+        "local": "Remich",
+        "en": "Remich",
+        "slug": "remich-lu09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.648",
+    "lon": "6.26"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "LU12C05",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Wincrange",
+    "en": "Wincrange",
+    "slug": "wincrange-lu12c05"
+  },
+  "code": {
+    "id": "LU12C05",
+    "iso": null
+  },
+  "parent": {
+    "id": "LU12",
+    "level": 1,
+    "name": {
+      "local": "Clervaux",
+      "en": "Clervaux",
+      "slug": "clervaux-lu12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LU12",
+      "level": 1,
+      "name": {
+        "local": "Clervaux",
+        "en": "Clervaux",
+        "slug": "clervaux-lu12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.075",
+    "lon": "5.931"
+  },
+  "metadata": {},
+  "source": {}
+}

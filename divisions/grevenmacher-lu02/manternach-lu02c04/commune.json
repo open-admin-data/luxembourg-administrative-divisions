@@ -1,0 +1,45 @@
+{
+  "id": "LU02C04",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Manternach",
+    "en": "Manternach",
+    "slug": "manternach-lu02c04"
+  },
+  "code": {
+    "id": "LU02C04",
+    "iso": null
+  },
+  "parent": {
+    "id": "LU02",
+    "level": 1,
+    "name": {
+      "local": "Grevenmacher",
+      "en": "Grevenmacher",
+      "slug": "grevenmacher-lu02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LU02",
+      "level": 1,
+      "name": {
+        "local": "Grevenmacher",
+        "en": "Grevenmacher",
+        "slug": "grevenmacher-lu02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.703",
+    "lon": "6.426"
+  },
+  "metadata": {},
+  "source": {}
+}

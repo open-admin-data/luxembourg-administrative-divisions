@@ -1,0 +1,33 @@
+{
+  "id": "LU06",
+  "level": 1,
+  "level_name": {
+    "local": "Canton",
+    "en": "Canton"
+  },
+  "name": {
+    "local": "Capellen",
+    "en": "Capellen",
+    "slug": "capellen-lu06"
+  },
+  "code": {
+    "id": "LU06",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.644",
+    "lon": "5.965"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lu/cantons/capellen-lu06/",
+    "api": "https://openadmindata.org/api/lu/"
+  }
+}

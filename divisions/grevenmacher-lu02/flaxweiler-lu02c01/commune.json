@@ -1,0 +1,45 @@
+{
+  "id": "LU02C01",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Flaxweiler",
+    "en": "Flaxweiler",
+    "slug": "flaxweiler-lu02c01"
+  },
+  "code": {
+    "id": "LU02C01",
+    "iso": null
+  },
+  "parent": {
+    "id": "LU02",
+    "level": 1,
+    "name": {
+      "local": "Grevenmacher",
+      "en": "Grevenmacher",
+      "slug": "grevenmacher-lu02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LU02",
+      "level": 1,
+      "name": {
+        "local": "Grevenmacher",
+        "en": "Grevenmacher",
+        "slug": "grevenmacher-lu02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.662",
+    "lon": "6.344"
+  },
+  "metadata": {},
+  "source": {}
+}

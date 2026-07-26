@@ -1,0 +1,45 @@
+{
+  "id": "LU09C07",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Remich",
+    "en": "Remich",
+    "slug": "remich-lu09c07"
+  },
+  "code": {
+    "id": "LU09C07",
+    "iso": null
+  },
+  "parent": {
+    "id": "LU09",
+    "level": 1,
+    "name": {
+      "local": "Remich",
+      "en": "Remich",
+      "slug": "remich-lu09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LU09",
+      "level": 1,
+      "name": {
+        "local": "Remich",
+        "en": "Remich",
+        "slug": "remich-lu09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.545",
+    "lon": "6.367"
+  },
+  "metadata": {},
+  "source": {}
+}

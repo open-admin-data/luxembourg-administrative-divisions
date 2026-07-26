@@ -1,0 +1,45 @@
+{
+  "id": "LU03C04",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Walferdange",
+    "en": "Walferdange",
+    "slug": "walferdange-lu03c04"
+  },
+  "code": {
+    "id": "LU03C04",
+    "iso": null
+  },
+  "parent": {
+    "id": "LU03",
+    "level": 1,
+    "name": {
+      "local": "Luxembourg",
+      "en": "Luxembourg",
+      "slug": "luxembourg-lu03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LU03",
+      "level": 1,
+      "name": {
+        "local": "Luxembourg",
+        "en": "Luxembourg",
+        "slug": "luxembourg-lu03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.658",
+    "lon": "6.137"
+  },
+  "metadata": {},
+  "source": {}
+}

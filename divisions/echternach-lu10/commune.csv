@@ -1,0 +1,9 @@
+id,name.local,name.en,name.slug,code.id,geo.lat,geo.lon
+LU10C07,Beaufort,Beaufort,beaufort-lu10c07,LU10C07,49.836,6.292
+LU10C05,Bech,Bech,bech-lu10c05,LU10C05,49.746,6.364
+LU10C06,Berdorf,Berdorf,berdorf-lu10c06,LU10C06,49.814,6.35
+LU10C01,Consdorf,Consdorf,consdorf-lu10c01,LU10C01,49.773,6.338
+LU10C03,Echternach,Echternach,echternach-lu10c03,LU10C03,49.813,6.422
+LU10C02,Reisdorf,Reisdorf,reisdorf-lu10c02,LU10C02,49.869,6.268
+LU10C08,Rosport-Mompach,Rosport-Mompach,rosport-mompach-lu10c08,LU10C08,49.767,6.463
+LU10C04,Waldbillig,Waldbillig,waldbillig-lu10c04,LU10C04,49.789,6.287

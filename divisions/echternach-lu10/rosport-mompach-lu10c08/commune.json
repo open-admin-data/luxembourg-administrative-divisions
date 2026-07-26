@@ -1,0 +1,45 @@
+{
+  "id": "LU10C08",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Rosport-Mompach",
+    "en": "Rosport-Mompach",
+    "slug": "rosport-mompach-lu10c08"
+  },
+  "code": {
+    "id": "LU10C08",
+    "iso": null
+  },
+  "parent": {
+    "id": "LU10",
+    "level": 1,
+    "name": {
+      "local": "Echternach",
+      "en": "Echternach",
+      "slug": "echternach-lu10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LU10",
+      "level": 1,
+      "name": {
+        "local": "Echternach",
+        "en": "Echternach",
+        "slug": "echternach-lu10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.767",
+    "lon": "6.463"
+  },
+  "metadata": {},
+  "source": {}
+}

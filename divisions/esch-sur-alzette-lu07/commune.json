@@ -1,0 +1,632 @@
+[
+  {
+    "id": "LU07C08",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bettembourg",
+      "en": "Bettembourg",
+      "slug": "bettembourg-lu07c08"
+    },
+    "code": {
+      "id": "LU07C08",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU07",
+      "level": 1,
+      "name": {
+        "local": "Esch-sur-Alzette",
+        "en": "Esch-sur-Alzette",
+        "slug": "esch-sur-alzette-lu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU07",
+        "level": 1,
+        "name": {
+          "local": "Esch-sur-Alzette",
+          "en": "Esch-sur-Alzette",
+          "slug": "esch-sur-alzette-lu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.516",
+      "lon": "6.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU07C01",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Differdange",
+      "en": "Differdange",
+      "slug": "differdange-lu07c01"
+    },
+    "code": {
+      "id": "LU07C01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU07",
+      "level": 1,
+      "name": {
+        "local": "Esch-sur-Alzette",
+        "en": "Esch-sur-Alzette",
+        "slug": "esch-sur-alzette-lu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU07",
+        "level": 1,
+        "name": {
+          "local": "Esch-sur-Alzette",
+          "en": "Esch-sur-Alzette",
+          "slug": "esch-sur-alzette-lu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.523",
+      "lon": "5.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU07C07",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dudelange",
+      "en": "Dudelange",
+      "slug": "dudelange-lu07c07"
+    },
+    "code": {
+      "id": "LU07C07",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU07",
+      "level": 1,
+      "name": {
+        "local": "Esch-sur-Alzette",
+        "en": "Esch-sur-Alzette",
+        "slug": "esch-sur-alzette-lu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU07",
+        "level": 1,
+        "name": {
+          "local": "Esch-sur-Alzette",
+          "en": "Esch-sur-Alzette",
+          "slug": "esch-sur-alzette-lu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.476",
+      "lon": "6.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU07C09",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Esch-sur-Alzette",
+      "en": "Esch-sur-Alzette",
+      "slug": "esch-sur-alzette-lu07c09"
+    },
+    "code": {
+      "id": "LU07C09",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU07",
+      "level": 1,
+      "name": {
+        "local": "Esch-sur-Alzette",
+        "en": "Esch-sur-Alzette",
+        "slug": "esch-sur-alzette-lu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU07",
+        "level": 1,
+        "name": {
+          "local": "Esch-sur-Alzette",
+          "en": "Esch-sur-Alzette",
+          "slug": "esch-sur-alzette-lu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.496",
+      "lon": "5.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU07C12",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Frisange",
+      "en": "Frisange",
+      "slug": "frisange-lu07c12"
+    },
+    "code": {
+      "id": "LU07C12",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU07",
+      "level": 1,
+      "name": {
+        "local": "Esch-sur-Alzette",
+        "en": "Esch-sur-Alzette",
+        "slug": "esch-sur-alzette-lu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU07",
+        "level": 1,
+        "name": {
+          "local": "Esch-sur-Alzette",
+          "en": "Esch-sur-Alzette",
+          "slug": "esch-sur-alzette-lu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.524",
+      "lon": "6.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU07C11",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kayl",
+      "en": "Kayl",
+      "slug": "kayl-lu07c11"
+    },
+    "code": {
+      "id": "LU07C11",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU07",
+      "level": 1,
+      "name": {
+        "local": "Esch-sur-Alzette",
+        "en": "Esch-sur-Alzette",
+        "slug": "esch-sur-alzette-lu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU07",
+        "level": 1,
+        "name": {
+          "local": "Esch-sur-Alzette",
+          "en": "Esch-sur-Alzette",
+          "slug": "esch-sur-alzette-lu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.486",
+      "lon": "6.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU07C10",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Leudelange",
+      "en": "Leudelange",
+      "slug": "leudelange-lu07c10"
+    },
+    "code": {
+      "id": "LU07C10",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU07",
+      "level": 1,
+      "name": {
+        "local": "Esch-sur-Alzette",
+        "en": "Esch-sur-Alzette",
+        "slug": "esch-sur-alzette-lu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU07",
+        "level": 1,
+        "name": {
+          "local": "Esch-sur-Alzette",
+          "en": "Esch-sur-Alzette",
+          "slug": "esch-sur-alzette-lu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.567",
+      "lon": "6.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU07C03",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mondercange",
+      "en": "Mondercange",
+      "slug": "mondercange-lu07c03"
+    },
+    "code": {
+      "id": "LU07C03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU07",
+      "level": 1,
+      "name": {
+        "local": "Esch-sur-Alzette",
+        "en": "Esch-sur-Alzette",
+        "slug": "esch-sur-alzette-lu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU07",
+        "level": 1,
+        "name": {
+          "local": "Esch-sur-Alzette",
+          "en": "Esch-sur-Alzette",
+          "slug": "esch-sur-alzette-lu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.529",
+      "lon": "5.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU07C02",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Pétange",
+      "en": "Pétange",
+      "slug": "petange-lu07c02"
+    },
+    "code": {
+      "id": "LU07C02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU07",
+      "level": 1,
+      "name": {
+        "local": "Esch-sur-Alzette",
+        "en": "Esch-sur-Alzette",
+        "slug": "esch-sur-alzette-lu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU07",
+        "level": 1,
+        "name": {
+          "local": "Esch-sur-Alzette",
+          "en": "Esch-sur-Alzette",
+          "slug": "esch-sur-alzette-lu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.553",
+      "lon": "5.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU07C13",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Reckange-sur-Mess",
+      "en": "Reckange-sur-Mess",
+      "slug": "reckange-sur-mess-lu07c13"
+    },
+    "code": {
+      "id": "LU07C13",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU07",
+      "level": 1,
+      "name": {
+        "local": "Esch-sur-Alzette",
+        "en": "Esch-sur-Alzette",
+        "slug": "esch-sur-alzette-lu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU07",
+        "level": 1,
+        "name": {
+          "local": "Esch-sur-Alzette",
+          "en": "Esch-sur-Alzette",
+          "slug": "esch-sur-alzette-lu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.559",
+      "lon": "6.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU07C06",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Roeser",
+      "en": "Roeser",
+      "slug": "roeser-lu07c06"
+    },
+    "code": {
+      "id": "LU07C06",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU07",
+      "level": 1,
+      "name": {
+        "local": "Esch-sur-Alzette",
+        "en": "Esch-sur-Alzette",
+        "slug": "esch-sur-alzette-lu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU07",
+        "level": 1,
+        "name": {
+          "local": "Esch-sur-Alzette",
+          "en": "Esch-sur-Alzette",
+          "slug": "esch-sur-alzette-lu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.525",
+      "lon": "6.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU07C05",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Rumelange",
+      "en": "Rumelange",
+      "slug": "rumelange-lu07c05"
+    },
+    "code": {
+      "id": "LU07C05",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU07",
+      "level": 1,
+      "name": {
+        "local": "Esch-sur-Alzette",
+        "en": "Esch-sur-Alzette",
+        "slug": "esch-sur-alzette-lu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU07",
+        "level": 1,
+        "name": {
+          "local": "Esch-sur-Alzette",
+          "en": "Esch-sur-Alzette",
+          "slug": "esch-sur-alzette-lu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.466",
+      "lon": "6.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU07C04",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sanem",
+      "en": "Sanem",
+      "slug": "sanem-lu07c04"
+    },
+    "code": {
+      "id": "LU07C04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU07",
+      "level": 1,
+      "name": {
+        "local": "Esch-sur-Alzette",
+        "en": "Esch-sur-Alzette",
+        "slug": "esch-sur-alzette-lu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU07",
+        "level": 1,
+        "name": {
+          "local": "Esch-sur-Alzette",
+          "en": "Esch-sur-Alzette",
+          "slug": "esch-sur-alzette-lu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.511",
+      "lon": "5.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU07C14",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Schifflange",
+      "en": "Schifflange",
+      "slug": "schifflange-lu07c14"
+    },
+    "code": {
+      "id": "LU07C14",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU07",
+      "level": 1,
+      "name": {
+        "local": "Esch-sur-Alzette",
+        "en": "Esch-sur-Alzette",
+        "slug": "esch-sur-alzette-lu07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU07",
+        "level": 1,
+        "name": {
+          "local": "Esch-sur-Alzette",
+          "en": "Esch-sur-Alzette",
+          "slug": "esch-sur-alzette-lu07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.508",
+      "lon": "6.015"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

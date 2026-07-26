@@ -1,0 +1,45 @@
+{
+  "id": "LU07C08",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Bettembourg",
+    "en": "Bettembourg",
+    "slug": "bettembourg-lu07c08"
+  },
+  "code": {
+    "id": "LU07C08",
+    "iso": null
+  },
+  "parent": {
+    "id": "LU07",
+    "level": 1,
+    "name": {
+      "local": "Esch-sur-Alzette",
+      "en": "Esch-sur-Alzette",
+      "slug": "esch-sur-alzette-lu07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LU07",
+      "level": 1,
+      "name": {
+        "local": "Esch-sur-Alzette",
+        "en": "Esch-sur-Alzette",
+        "slug": "esch-sur-alzette-lu07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.516",
+    "lon": "6.101"
+  },
+  "metadata": {},
+  "source": {}
+}

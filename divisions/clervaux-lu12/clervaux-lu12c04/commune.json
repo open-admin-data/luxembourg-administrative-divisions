@@ -1,0 +1,45 @@
+{
+  "id": "LU12C04",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Clervaux",
+    "en": "Clervaux",
+    "slug": "clervaux-lu12c04"
+  },
+  "code": {
+    "id": "LU12C04",
+    "iso": null
+  },
+  "parent": {
+    "id": "LU12",
+    "level": 1,
+    "name": {
+      "local": "Clervaux",
+      "en": "Clervaux",
+      "slug": "clervaux-lu12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LU12",
+      "level": 1,
+      "name": {
+        "local": "Clervaux",
+        "en": "Clervaux",
+        "slug": "clervaux-lu12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.054",
+    "lon": "6.029"
+  },
+  "metadata": {},
+  "source": {}
+}

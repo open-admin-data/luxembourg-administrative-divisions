@@ -1,0 +1,45 @@
+{
+  "id": "LU05C04",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Beckerich",
+    "en": "Beckerich",
+    "slug": "beckerich-lu05c04"
+  },
+  "code": {
+    "id": "LU05C04",
+    "iso": null
+  },
+  "parent": {
+    "id": "LU05",
+    "level": 1,
+    "name": {
+      "local": "Redange",
+      "en": "Redange",
+      "slug": "redange-lu05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LU05",
+      "level": 1,
+      "name": {
+        "local": "Redange",
+        "en": "Redange",
+        "slug": "redange-lu05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.731",
+    "lon": "5.887"
+  },
+  "metadata": {},
+  "source": {}
+}

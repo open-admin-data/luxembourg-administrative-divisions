@@ -1,0 +1,45 @@
+{
+  "id": "LU05C07",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Rambrouch",
+    "en": "Rambrouch",
+    "slug": "rambrouch-lu05c07"
+  },
+  "code": {
+    "id": "LU05C07",
+    "iso": null
+  },
+  "parent": {
+    "id": "LU05",
+    "level": 1,
+    "name": {
+      "local": "Redange",
+      "en": "Redange",
+      "slug": "redange-lu05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LU05",
+      "level": 1,
+      "name": {
+        "local": "Redange",
+        "en": "Redange",
+        "slug": "redange-lu05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.831",
+    "lon": "5.845"
+  },
+  "metadata": {},
+  "source": {}
+}

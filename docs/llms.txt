@@ -1,0 +1,74 @@
+# Luxembourg Administrative Divisions
+
+> Open dataset of Luxembourg's administrative hierarchy:
+> 12 cantons, 102 communes.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total cantons: 12
+- Total communes: 102
+- Coordinates: included (all levels)
+- Last updated: 2026-07-26
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All cantons (JSON)](https://raw.githubusercontent.com/open-admin-data/luxembourg-administrative-divisions/main/data/all-canton.json)
+- [All communes (JSON)](https://raw.githubusercontent.com/open-admin-data/luxembourg-administrative-divisions/main/data/all-commune.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/luxembourg-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/luxembourg-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/luxembourg-administrative-divisions/main/data/schema.json)
+
+## Browse by Canton
+
+- [Diekirch](https://github.com/open-admin-data/luxembourg-administrative-divisions/tree/main/divisions/diekirch-lu01/) — 0 communes
+- [Grevenmacher](https://github.com/open-admin-data/luxembourg-administrative-divisions/tree/main/divisions/grevenmacher-lu02/) — 7 communes
+- [Luxembourg](https://github.com/open-admin-data/luxembourg-administrative-divisions/tree/main/divisions/luxembourg-lu03/) — 5 communes
+- [Wiltz](https://github.com/open-admin-data/luxembourg-administrative-divisions/tree/main/divisions/wiltz-lu04/) — 9 communes
+- [Redange](https://github.com/open-admin-data/luxembourg-administrative-divisions/tree/main/divisions/redange-lu05/) — 10 communes
+- [Capellen](https://github.com/open-admin-data/luxembourg-administrative-divisions/tree/main/divisions/capellen-lu06/) — 9 communes
+- [Esch-sur-Alzette](https://github.com/open-admin-data/luxembourg-administrative-divisions/tree/main/divisions/esch-sur-alzette-lu07/) — 14 communes
+- [Mersch](https://github.com/open-admin-data/luxembourg-administrative-divisions/tree/main/divisions/mersch-lu08/) — 14 communes
+- [Remich](https://github.com/open-admin-data/luxembourg-administrative-divisions/tree/main/divisions/remich-lu09/) — 14 communes
+- [Echternach](https://github.com/open-admin-data/luxembourg-administrative-divisions/tree/main/divisions/echternach-lu10/) — 8 communes
+- [Vianden](https://github.com/open-admin-data/luxembourg-administrative-divisions/tree/main/divisions/vianden-lu11/) — 7 communes
+- [Clervaux](https://github.com/open-admin-data/luxembourg-administrative-divisions/tree/main/divisions/clervaux-lu12/) — 5 communes
+
+## Per-Canton Full Data
+
+- [Diekirch](https://raw.githubusercontent.com/open-admin-data/luxembourg-administrative-divisions/main/docs/llms-full/diekirch-lu01.txt)
+- [Grevenmacher](https://raw.githubusercontent.com/open-admin-data/luxembourg-administrative-divisions/main/docs/llms-full/grevenmacher-lu02.txt)
+- [Luxembourg](https://raw.githubusercontent.com/open-admin-data/luxembourg-administrative-divisions/main/docs/llms-full/luxembourg-lu03.txt)
+- [Wiltz](https://raw.githubusercontent.com/open-admin-data/luxembourg-administrative-divisions/main/docs/llms-full/wiltz-lu04.txt)
+- [Redange](https://raw.githubusercontent.com/open-admin-data/luxembourg-administrative-divisions/main/docs/llms-full/redange-lu05.txt)
+- [Capellen](https://raw.githubusercontent.com/open-admin-data/luxembourg-administrative-divisions/main/docs/llms-full/capellen-lu06.txt)
+- [Esch-sur-Alzette](https://raw.githubusercontent.com/open-admin-data/luxembourg-administrative-divisions/main/docs/llms-full/esch-sur-alzette-lu07.txt)
+- [Mersch](https://raw.githubusercontent.com/open-admin-data/luxembourg-administrative-divisions/main/docs/llms-full/mersch-lu08.txt)
+- [Remich](https://raw.githubusercontent.com/open-admin-data/luxembourg-administrative-divisions/main/docs/llms-full/remich-lu09.txt)
+- [Echternach](https://raw.githubusercontent.com/open-admin-data/luxembourg-administrative-divisions/main/docs/llms-full/echternach-lu10.txt)
+- [Vianden](https://raw.githubusercontent.com/open-admin-data/luxembourg-administrative-divisions/main/docs/llms-full/vianden-lu11.txt)
+- [Clervaux](https://raw.githubusercontent.com/open-admin-data/luxembourg-administrative-divisions/main/docs/llms-full/clervaux-lu12.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (canton), 2 (commune)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Luxembourg Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/luxembourg-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

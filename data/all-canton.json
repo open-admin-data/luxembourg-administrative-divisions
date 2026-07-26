@@ -1,0 +1,398 @@
+[
+  {
+    "id": "LU01",
+    "level": 1,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Diekirch",
+      "en": "Diekirch",
+      "slug": "diekirch-lu01"
+    },
+    "code": {
+      "id": "LU01",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.959",
+      "lon": "5.974"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/lu/cantons/diekirch-lu01/",
+      "api": "https://openadmindata.org/api/lu/"
+    }
+  },
+  {
+    "id": "LU02",
+    "level": 1,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Grevenmacher",
+      "en": "Grevenmacher",
+      "slug": "grevenmacher-lu02"
+    },
+    "code": {
+      "id": "LU02",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.732",
+      "lon": "6.354"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/lu/cantons/grevenmacher-lu02/",
+      "api": "https://openadmindata.org/api/lu/"
+    }
+  },
+  {
+    "id": "LU03",
+    "level": 1,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Luxembourg",
+      "en": "Luxembourg",
+      "slug": "luxembourg-lu03"
+    },
+    "code": {
+      "id": "LU03",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.609",
+      "lon": "6.059"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/lu/cantons/luxembourg-lu03/",
+      "api": "https://openadmindata.org/api/lu/"
+    }
+  },
+  {
+    "id": "LU04",
+    "level": 1,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Wiltz",
+      "en": "Wiltz",
+      "slug": "wiltz-lu04"
+    },
+    "code": {
+      "id": "LU04",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "commune": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.941",
+      "lon": "5.954"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/lu/cantons/wiltz-lu04/",
+      "api": "https://openadmindata.org/api/lu/"
+    }
+  },
+  {
+    "id": "LU05",
+    "level": 1,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Redange",
+      "en": "Redange",
+      "slug": "redange-lu05"
+    },
+    "code": {
+      "id": "LU05",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "commune": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.797",
+      "lon": "5.886"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/lu/cantons/redange-lu05/",
+      "api": "https://openadmindata.org/api/lu/"
+    }
+  },
+  {
+    "id": "LU06",
+    "level": 1,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Capellen",
+      "en": "Capellen",
+      "slug": "capellen-lu06"
+    },
+    "code": {
+      "id": "LU06",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "commune": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.644",
+      "lon": "5.965"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/lu/cantons/capellen-lu06/",
+      "api": "https://openadmindata.org/api/lu/"
+    }
+  },
+  {
+    "id": "LU07",
+    "level": 1,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Esch-sur-Alzette",
+      "en": "Esch-sur-Alzette",
+      "slug": "esch-sur-alzette-lu07"
+    },
+    "code": {
+      "id": "LU07",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "commune": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.518",
+      "lon": "6.029"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/lu/cantons/esch-sur-alzette-lu07/",
+      "api": "https://openadmindata.org/api/lu/"
+    }
+  },
+  {
+    "id": "LU08",
+    "level": 1,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Mersch",
+      "en": "Mersch",
+      "slug": "mersch-lu08"
+    },
+    "code": {
+      "id": "LU08",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "commune": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.752",
+      "lon": "6.117"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/lu/cantons/mersch-lu08/",
+      "api": "https://openadmindata.org/api/lu/"
+    }
+  },
+  {
+    "id": "LU09",
+    "level": 1,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Remich",
+      "en": "Remich",
+      "slug": "remich-lu09"
+    },
+    "code": {
+      "id": "LU09",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "commune": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.539",
+      "lon": "6.312"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/lu/cantons/remich-lu09/",
+      "api": "https://openadmindata.org/api/lu/"
+    }
+  },
+  {
+    "id": "LU10",
+    "level": 1,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Echternach",
+      "en": "Echternach",
+      "slug": "echternach-lu10"
+    },
+    "code": {
+      "id": "LU10",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.793",
+      "lon": "6.358"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/lu/cantons/echternach-lu10/",
+      "api": "https://openadmindata.org/api/lu/"
+    }
+  },
+  {
+    "id": "LU11",
+    "level": 1,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Vianden",
+      "en": "Vianden",
+      "slug": "vianden-lu11"
+    },
+    "code": {
+      "id": "LU11",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.933",
+      "lon": "6.15"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/lu/cantons/vianden-lu11/",
+      "api": "https://openadmindata.org/api/lu/"
+    }
+  },
+  {
+    "id": "LU12",
+    "level": 1,
+    "level_name": {
+      "local": "Canton",
+      "en": "Canton"
+    },
+    "name": {
+      "local": "Clervaux",
+      "en": "Clervaux",
+      "slug": "clervaux-lu12"
+    },
+    "code": {
+      "id": "LU12",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.083",
+      "lon": "6.03"
+    },
+    "metadata": {},
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/lu/cantons/clervaux-lu12/",
+      "api": "https://openadmindata.org/api/lu/"
+    }
+  }
+]

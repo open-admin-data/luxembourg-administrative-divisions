@@ -1,0 +1,44 @@
+# Grevenmacher — Luxembourg Administrative Divisions
+
+> 7 communes
+> Code: LU02
+> Coordinates: 49.732, 6.354
+> Last updated: 2026-07-26. License: CC-BY-4.0.
+
+## Communes
+
+### Betzdorf
+
+Code: LU02C05, Coordinates: 49.683, 6.35
+
+
+### Biwer
+
+Code: LU02C02, Coordinates: 49.703, 6.375
+
+
+### Flaxweiler
+
+Code: LU02C01, Coordinates: 49.662, 6.344
+
+
+### Grevenmacher
+
+Code: LU02C07, Coordinates: 49.667, 6.417
+
+
+### Junglinster
+
+Code: LU02C03, Coordinates: 49.707, 6.253
+
+
+### Manternach
+
+Code: LU02C04, Coordinates: 49.703, 6.426
+
+
+### Mertert
+
+Code: LU02C06, Coordinates: 49.717, 6.476
+
+

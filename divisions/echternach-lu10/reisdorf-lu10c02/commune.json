@@ -1,0 +1,45 @@
+{
+  "id": "LU10C02",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Reisdorf",
+    "en": "Reisdorf",
+    "slug": "reisdorf-lu10c02"
+  },
+  "code": {
+    "id": "LU10C02",
+    "iso": null
+  },
+  "parent": {
+    "id": "LU10",
+    "level": 1,
+    "name": {
+      "local": "Echternach",
+      "en": "Echternach",
+      "slug": "echternach-lu10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LU10",
+      "level": 1,
+      "name": {
+        "local": "Echternach",
+        "en": "Echternach",
+        "slug": "echternach-lu10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.869",
+    "lon": "6.268"
+  },
+  "metadata": {},
+  "source": {}
+}

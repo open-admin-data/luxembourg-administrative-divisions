@@ -1,0 +1,54 @@
+# Wiltz — Luxembourg Administrative Divisions
+
+> 9 communes
+> Code: LU04
+> Coordinates: 49.941, 5.954
+> Last updated: 2026-07-26. License: CC-BY-4.0.
+
+## Communes
+
+### Boulaide
+
+Code: LU04C08, Coordinates: 49.888, 5.816
+
+
+### Esch-sur-Sûre
+
+Code: LU04C07, Coordinates: 49.911, 5.936
+
+
+### Feulen
+
+Code: LU04C03, Coordinates: 49.85, 6.017
+
+
+### Goesdorf
+
+Code: LU04C04, Coordinates: 49.922, 5.968
+
+
+### Kiischpelt
+
+Code: LU04C06, Coordinates: 49.949, 6.022
+
+
+### Lac de la Haute Sûre
+
+Code: LU04C01, Coordinates: 49.909, 5.876
+
+
+### Mertzig
+
+Code: LU04C05, Coordinates: 49.834, 6.008
+
+
+### Wiltz
+
+Code: LU04C09, Coordinates: 49.917, 5.917
+
+
+### Winseler
+
+Code: LU04C02, Coordinates: 49.968, 5.89
+
+

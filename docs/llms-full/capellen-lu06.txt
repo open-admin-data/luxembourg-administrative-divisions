@@ -1,0 +1,54 @@
+# Capellen — Luxembourg Administrative Divisions
+
+> 9 communes
+> Code: LU06
+> Coordinates: 49.644, 5.965
+> Last updated: 2026-07-26. License: CC-BY-4.0.
+
+## Communes
+
+### Dippach
+
+Code: LU06C03, Coordinates: 49.588, 5.983
+
+
+### Garnich
+
+Code: LU06C02, Coordinates: 49.617, 5.953
+
+
+### Habscht
+
+Code: LU06C01, Coordinates: 49.689, 5.915
+
+
+### KÃ¤erjeng
+
+Code: LU06C09, Coordinates: 49.584, 5.898
+
+
+### Kehlen
+
+Code: LU06C08, Coordinates: 49.668, 6.036
+
+
+### Koerich
+
+Code: LU06C07, Coordinates: 49.67, 5.95
+
+
+### Kopstal
+
+Code: LU06C04, Coordinates: 49.664, 6.073
+
+
+### Mamer
+
+Code: LU06C05, Coordinates: 49.628, 6.023
+
+
+### Steinfort
+
+Code: LU06C06, Coordinates: 49.661, 5.919
+
+

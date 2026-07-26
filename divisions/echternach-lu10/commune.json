@@ -1,0 +1,362 @@
+[
+  {
+    "id": "LU10C07",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beaufort",
+      "en": "Beaufort",
+      "slug": "beaufort-lu10c07"
+    },
+    "code": {
+      "id": "LU10C07",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU10",
+      "level": 1,
+      "name": {
+        "local": "Echternach",
+        "en": "Echternach",
+        "slug": "echternach-lu10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU10",
+        "level": 1,
+        "name": {
+          "local": "Echternach",
+          "en": "Echternach",
+          "slug": "echternach-lu10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.836",
+      "lon": "6.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU10C05",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bech",
+      "en": "Bech",
+      "slug": "bech-lu10c05"
+    },
+    "code": {
+      "id": "LU10C05",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU10",
+      "level": 1,
+      "name": {
+        "local": "Echternach",
+        "en": "Echternach",
+        "slug": "echternach-lu10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU10",
+        "level": 1,
+        "name": {
+          "local": "Echternach",
+          "en": "Echternach",
+          "slug": "echternach-lu10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.746",
+      "lon": "6.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU10C06",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Berdorf",
+      "en": "Berdorf",
+      "slug": "berdorf-lu10c06"
+    },
+    "code": {
+      "id": "LU10C06",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU10",
+      "level": 1,
+      "name": {
+        "local": "Echternach",
+        "en": "Echternach",
+        "slug": "echternach-lu10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU10",
+        "level": 1,
+        "name": {
+          "local": "Echternach",
+          "en": "Echternach",
+          "slug": "echternach-lu10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.814",
+      "lon": "6.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU10C01",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Consdorf",
+      "en": "Consdorf",
+      "slug": "consdorf-lu10c01"
+    },
+    "code": {
+      "id": "LU10C01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU10",
+      "level": 1,
+      "name": {
+        "local": "Echternach",
+        "en": "Echternach",
+        "slug": "echternach-lu10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU10",
+        "level": 1,
+        "name": {
+          "local": "Echternach",
+          "en": "Echternach",
+          "slug": "echternach-lu10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.773",
+      "lon": "6.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU10C03",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Echternach",
+      "en": "Echternach",
+      "slug": "echternach-lu10c03"
+    },
+    "code": {
+      "id": "LU10C03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU10",
+      "level": 1,
+      "name": {
+        "local": "Echternach",
+        "en": "Echternach",
+        "slug": "echternach-lu10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU10",
+        "level": 1,
+        "name": {
+          "local": "Echternach",
+          "en": "Echternach",
+          "slug": "echternach-lu10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.813",
+      "lon": "6.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU10C02",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Reisdorf",
+      "en": "Reisdorf",
+      "slug": "reisdorf-lu10c02"
+    },
+    "code": {
+      "id": "LU10C02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU10",
+      "level": 1,
+      "name": {
+        "local": "Echternach",
+        "en": "Echternach",
+        "slug": "echternach-lu10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU10",
+        "level": 1,
+        "name": {
+          "local": "Echternach",
+          "en": "Echternach",
+          "slug": "echternach-lu10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.869",
+      "lon": "6.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU10C08",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Rosport-Mompach",
+      "en": "Rosport-Mompach",
+      "slug": "rosport-mompach-lu10c08"
+    },
+    "code": {
+      "id": "LU10C08",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU10",
+      "level": 1,
+      "name": {
+        "local": "Echternach",
+        "en": "Echternach",
+        "slug": "echternach-lu10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU10",
+        "level": 1,
+        "name": {
+          "local": "Echternach",
+          "en": "Echternach",
+          "slug": "echternach-lu10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.767",
+      "lon": "6.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU10C04",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Waldbillig",
+      "en": "Waldbillig",
+      "slug": "waldbillig-lu10c04"
+    },
+    "code": {
+      "id": "LU10C04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU10",
+      "level": 1,
+      "name": {
+        "local": "Echternach",
+        "en": "Echternach",
+        "slug": "echternach-lu10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU10",
+        "level": 1,
+        "name": {
+          "local": "Echternach",
+          "en": "Echternach",
+          "slug": "echternach-lu10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.789",
+      "lon": "6.287"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

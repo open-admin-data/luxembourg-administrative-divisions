@@ -1,0 +1,33 @@
+{
+  "id": "LU10",
+  "level": 1,
+  "level_name": {
+    "local": "Canton",
+    "en": "Canton"
+  },
+  "name": {
+    "local": "Echternach",
+    "en": "Echternach",
+    "slug": "echternach-lu10"
+  },
+  "code": {
+    "id": "LU10",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.793",
+    "lon": "6.358"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lu/cantons/echternach-lu10/",
+    "api": "https://openadmindata.org/api/lu/"
+  }
+}

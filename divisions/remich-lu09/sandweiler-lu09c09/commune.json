@@ -1,0 +1,45 @@
+{
+  "id": "LU09C09",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Sandweiler",
+    "en": "Sandweiler",
+    "slug": "sandweiler-lu09c09"
+  },
+  "code": {
+    "id": "LU09C09",
+    "iso": null
+  },
+  "parent": {
+    "id": "LU09",
+    "level": 1,
+    "name": {
+      "local": "Remich",
+      "en": "Remich",
+      "slug": "remich-lu09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LU09",
+      "level": 1,
+      "name": {
+        "local": "Remich",
+        "en": "Remich",
+        "slug": "remich-lu09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.613",
+    "lon": "6.219"
+  },
+  "metadata": {},
+  "source": {}
+}

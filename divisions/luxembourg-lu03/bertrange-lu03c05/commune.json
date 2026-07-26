@@ -1,0 +1,45 @@
+{
+  "id": "LU03C05",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Bertrange",
+    "en": "Bertrange",
+    "slug": "bertrange-lu03c05"
+  },
+  "code": {
+    "id": "LU03C05",
+    "iso": null
+  },
+  "parent": {
+    "id": "LU03",
+    "level": 1,
+    "name": {
+      "local": "Luxembourg",
+      "en": "Luxembourg",
+      "slug": "luxembourg-lu03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LU03",
+      "level": 1,
+      "name": {
+        "local": "Luxembourg",
+        "en": "Luxembourg",
+        "slug": "luxembourg-lu03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.611",
+    "lon": "6.05"
+  },
+  "metadata": {},
+  "source": {}
+}

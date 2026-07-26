@@ -1,0 +1,45 @@
+{
+  "id": "LU05C10",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Préizerdaul",
+    "en": "Préizerdaul",
+    "slug": "preizerdaul-lu05c10"
+  },
+  "code": {
+    "id": "LU05C10",
+    "iso": null
+  },
+  "parent": {
+    "id": "LU05",
+    "level": 1,
+    "name": {
+      "local": "Redange",
+      "en": "Redange",
+      "slug": "redange-lu05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LU05",
+      "level": 1,
+      "name": {
+        "local": "Redange",
+        "en": "Redange",
+        "slug": "redange-lu05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.801",
+    "lon": "5.93"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,79 @@
+# Mersch — Luxembourg Administrative Divisions
+
+> 14 communes
+> Code: LU08
+> Coordinates: 49.752, 6.117
+> Last updated: 2026-07-26. License: CC-BY-4.0.
+
+## Communes
+
+### Bissen
+
+Code: LU08C05, Coordinates: 49.788, 6.069
+
+
+### Colmar-Berg
+
+Code: LU08C12, Coordinates: 49.811, 6.08
+
+
+### Ettelbruck
+
+Code: LU08C08, Coordinates: 49.833, 6.083
+
+
+### Fischbach
+
+Code: LU08C07, Coordinates: 49.74, 6.187
+
+
+### Heffingen
+
+Code: LU08C03, Coordinates: 49.763, 6.241
+
+
+### Helperknapp
+
+Code: LU08C13, Coordinates: 49.719, 6.026
+
+
+### Larochette
+
+Code: LU08C10, Coordinates: 49.778, 6.199
+
+
+### Lintgen
+
+Code: LU08C04, Coordinates: 49.716, 6.134
+
+
+### Lorentzweiler
+
+Code: LU08C09, Coordinates: 49.695, 6.143
+
+
+### Mersch
+
+Code: LU08C02, Coordinates: 49.749, 6.106
+
+
+### Nommern
+
+Code: LU08C01, Coordinates: 49.787, 6.175
+
+
+### Schieren
+
+Code: LU08C11, Coordinates: 49.825, 6.114
+
+
+### Steinsel
+
+Code: LU08C06, Coordinates: 49.677, 6.124
+
+
+### Vallée de l&#39;Ernz
+
+Code: LU08C14, Coordinates: 49.822, 6.223
+
+

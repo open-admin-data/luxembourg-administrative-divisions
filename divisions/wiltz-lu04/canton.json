@@ -1,0 +1,33 @@
+{
+  "id": "LU04",
+  "level": 1,
+  "level_name": {
+    "local": "Canton",
+    "en": "Canton"
+  },
+  "name": {
+    "local": "Wiltz",
+    "en": "Wiltz",
+    "slug": "wiltz-lu04"
+  },
+  "code": {
+    "id": "LU04",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.941",
+    "lon": "5.954"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lu/cantons/wiltz-lu04/",
+    "api": "https://openadmindata.org/api/lu/"
+  }
+}

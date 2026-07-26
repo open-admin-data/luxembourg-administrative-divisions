@@ -1,0 +1,33 @@
+{
+  "id": "LU03",
+  "level": 1,
+  "level_name": {
+    "local": "Canton",
+    "en": "Canton"
+  },
+  "name": {
+    "local": "Luxembourg",
+    "en": "Luxembourg",
+    "slug": "luxembourg-lu03"
+  },
+  "code": {
+    "id": "LU03",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.609",
+    "lon": "6.059"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/lu/cantons/luxembourg-lu03/",
+    "api": "https://openadmindata.org/api/lu/"
+  }
+}

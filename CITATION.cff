@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "Luxembourg Administrative Divisions Dataset"
+version: "2026.07"
+date-released: "2026-07-26"
+url: "https://github.com/open-admin-data/luxembourg-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/luxembourg-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - luxembourg
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of Luxembourg's administrative hierarchy:
+  12 cantons, 102 communes.
+  Bilingual with coordinates and postal codes where available.

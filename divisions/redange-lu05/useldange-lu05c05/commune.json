@@ -1,0 +1,45 @@
+{
+  "id": "LU05C05",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Useldange",
+    "en": "Useldange",
+    "slug": "useldange-lu05c05"
+  },
+  "code": {
+    "id": "LU05C05",
+    "iso": null
+  },
+  "parent": {
+    "id": "LU05",
+    "level": 1,
+    "name": {
+      "local": "Redange",
+      "en": "Redange",
+      "slug": "redange-lu05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LU05",
+      "level": 1,
+      "name": {
+        "local": "Redange",
+        "en": "Redange",
+        "slug": "redange-lu05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.77",
+    "lon": "5.982"
+  },
+  "metadata": {},
+  "source": {}
+}

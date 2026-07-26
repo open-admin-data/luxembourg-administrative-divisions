@@ -1,0 +1,79 @@
+# Esch-sur-Alzette — Luxembourg Administrative Divisions
+
+> 14 communes
+> Code: LU07
+> Coordinates: 49.518, 6.029
+> Last updated: 2026-07-26. License: CC-BY-4.0.
+
+## Communes
+
+### Bettembourg
+
+Code: LU07C08, Coordinates: 49.516, 6.101
+
+
+### Differdange
+
+Code: LU07C01, Coordinates: 49.523, 5.869
+
+
+### Dudelange
+
+Code: LU07C07, Coordinates: 49.476, 6.084
+
+
+### Esch-sur-Alzette
+
+Code: LU07C09, Coordinates: 49.496, 5.981
+
+
+### Frisange
+
+Code: LU07C12, Coordinates: 49.524, 6.228
+
+
+### Kayl
+
+Code: LU07C11, Coordinates: 49.486, 6.043
+
+
+### Leudelange
+
+Code: LU07C10, Coordinates: 49.567, 6.067
+
+
+### Mondercange
+
+Code: LU07C03, Coordinates: 49.529, 5.987
+
+
+### Pétange
+
+Code: LU07C02, Coordinates: 49.553, 5.861
+
+
+### Reckange-sur-Mess
+
+Code: LU07C13, Coordinates: 49.559, 6.018
+
+
+### Roeser
+
+Code: LU07C06, Coordinates: 49.525, 6.157
+
+
+### Rumelange
+
+Code: LU07C05, Coordinates: 49.466, 6.042
+
+
+### Sanem
+
+Code: LU07C04, Coordinates: 49.511, 5.937
+
+
+### Schifflange
+
+Code: LU07C14, Coordinates: 49.508, 6.015
+
+

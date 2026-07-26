@@ -1,0 +1,45 @@
+{
+  "id": "LU09C02",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Weiler-la-Tour",
+    "en": "Weiler-la-Tour",
+    "slug": "weiler-la-tour-lu09c02"
+  },
+  "code": {
+    "id": "LU09C02",
+    "iso": null
+  },
+  "parent": {
+    "id": "LU09",
+    "level": 1,
+    "name": {
+      "local": "Remich",
+      "en": "Remich",
+      "slug": "remich-lu09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LU09",
+      "level": 1,
+      "name": {
+        "local": "Remich",
+        "en": "Remich",
+        "slug": "remich-lu09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.541",
+    "lon": "6.201"
+  },
+  "metadata": {},
+  "source": {}
+}

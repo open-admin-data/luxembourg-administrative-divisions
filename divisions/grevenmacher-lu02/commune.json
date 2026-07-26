@@ -1,0 +1,317 @@
+[
+  {
+    "id": "LU02C05",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Betzdorf",
+      "en": "Betzdorf",
+      "slug": "betzdorf-lu02c05"
+    },
+    "code": {
+      "id": "LU02C05",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU02",
+      "level": 1,
+      "name": {
+        "local": "Grevenmacher",
+        "en": "Grevenmacher",
+        "slug": "grevenmacher-lu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU02",
+        "level": 1,
+        "name": {
+          "local": "Grevenmacher",
+          "en": "Grevenmacher",
+          "slug": "grevenmacher-lu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.683",
+      "lon": "6.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU02C02",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Biwer",
+      "en": "Biwer",
+      "slug": "biwer-lu02c02"
+    },
+    "code": {
+      "id": "LU02C02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU02",
+      "level": 1,
+      "name": {
+        "local": "Grevenmacher",
+        "en": "Grevenmacher",
+        "slug": "grevenmacher-lu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU02",
+        "level": 1,
+        "name": {
+          "local": "Grevenmacher",
+          "en": "Grevenmacher",
+          "slug": "grevenmacher-lu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.703",
+      "lon": "6.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU02C01",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Flaxweiler",
+      "en": "Flaxweiler",
+      "slug": "flaxweiler-lu02c01"
+    },
+    "code": {
+      "id": "LU02C01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU02",
+      "level": 1,
+      "name": {
+        "local": "Grevenmacher",
+        "en": "Grevenmacher",
+        "slug": "grevenmacher-lu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU02",
+        "level": 1,
+        "name": {
+          "local": "Grevenmacher",
+          "en": "Grevenmacher",
+          "slug": "grevenmacher-lu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.662",
+      "lon": "6.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU02C07",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Grevenmacher",
+      "en": "Grevenmacher",
+      "slug": "grevenmacher-lu02c07"
+    },
+    "code": {
+      "id": "LU02C07",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU02",
+      "level": 1,
+      "name": {
+        "local": "Grevenmacher",
+        "en": "Grevenmacher",
+        "slug": "grevenmacher-lu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU02",
+        "level": 1,
+        "name": {
+          "local": "Grevenmacher",
+          "en": "Grevenmacher",
+          "slug": "grevenmacher-lu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.667",
+      "lon": "6.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU02C03",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Junglinster",
+      "en": "Junglinster",
+      "slug": "junglinster-lu02c03"
+    },
+    "code": {
+      "id": "LU02C03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU02",
+      "level": 1,
+      "name": {
+        "local": "Grevenmacher",
+        "en": "Grevenmacher",
+        "slug": "grevenmacher-lu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU02",
+        "level": 1,
+        "name": {
+          "local": "Grevenmacher",
+          "en": "Grevenmacher",
+          "slug": "grevenmacher-lu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.707",
+      "lon": "6.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU02C04",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Manternach",
+      "en": "Manternach",
+      "slug": "manternach-lu02c04"
+    },
+    "code": {
+      "id": "LU02C04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU02",
+      "level": 1,
+      "name": {
+        "local": "Grevenmacher",
+        "en": "Grevenmacher",
+        "slug": "grevenmacher-lu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU02",
+        "level": 1,
+        "name": {
+          "local": "Grevenmacher",
+          "en": "Grevenmacher",
+          "slug": "grevenmacher-lu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.703",
+      "lon": "6.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU02C06",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mertert",
+      "en": "Mertert",
+      "slug": "mertert-lu02c06"
+    },
+    "code": {
+      "id": "LU02C06",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU02",
+      "level": 1,
+      "name": {
+        "local": "Grevenmacher",
+        "en": "Grevenmacher",
+        "slug": "grevenmacher-lu02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU02",
+        "level": 1,
+        "name": {
+          "local": "Grevenmacher",
+          "en": "Grevenmacher",
+          "slug": "grevenmacher-lu02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.717",
+      "lon": "6.476"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

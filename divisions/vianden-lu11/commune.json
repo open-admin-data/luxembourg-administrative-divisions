@@ -1,0 +1,317 @@
+[
+  {
+    "id": "LU11C03",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bettendorf",
+      "en": "Bettendorf",
+      "slug": "bettendorf-lu11c03"
+    },
+    "code": {
+      "id": "LU11C03",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU11",
+      "level": 1,
+      "name": {
+        "local": "Vianden",
+        "en": "Vianden",
+        "slug": "vianden-lu11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU11",
+        "level": 1,
+        "name": {
+          "local": "Vianden",
+          "en": "Vianden",
+          "slug": "vianden-lu11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.877",
+      "lon": "6.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU11C02",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bourscheid",
+      "en": "Bourscheid",
+      "slug": "bourscheid-lu11c02"
+    },
+    "code": {
+      "id": "LU11C02",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU11",
+      "level": 1,
+      "name": {
+        "local": "Vianden",
+        "en": "Vianden",
+        "slug": "vianden-lu11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU11",
+        "level": 1,
+        "name": {
+          "local": "Vianden",
+          "en": "Vianden",
+          "slug": "vianden-lu11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.91",
+      "lon": "6.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU11C05",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Diekirch",
+      "en": "Diekirch",
+      "slug": "diekirch-lu11c05"
+    },
+    "code": {
+      "id": "LU11C05",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU11",
+      "level": 1,
+      "name": {
+        "local": "Vianden",
+        "en": "Vianden",
+        "slug": "vianden-lu11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU11",
+        "level": 1,
+        "name": {
+          "local": "Vianden",
+          "en": "Vianden",
+          "slug": "vianden-lu11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.917",
+      "lon": "6.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU11C04",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Erpeldange-sur-Sûre",
+      "en": "Erpeldange-sur-Sûre",
+      "slug": "erpeldange-sur-sure-lu11c04"
+    },
+    "code": {
+      "id": "LU11C04",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU11",
+      "level": 1,
+      "name": {
+        "local": "Vianden",
+        "en": "Vianden",
+        "slug": "vianden-lu11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU11",
+        "level": 1,
+        "name": {
+          "local": "Vianden",
+          "en": "Vianden",
+          "slug": "vianden-lu11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.865",
+      "lon": "6.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU11C06",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Putscheid",
+      "en": "Putscheid",
+      "slug": "putscheid-lu11c06"
+    },
+    "code": {
+      "id": "LU11C06",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU11",
+      "level": 1,
+      "name": {
+        "local": "Vianden",
+        "en": "Vianden",
+        "slug": "vianden-lu11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU11",
+        "level": 1,
+        "name": {
+          "local": "Vianden",
+          "en": "Vianden",
+          "slug": "vianden-lu11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.961",
+      "lon": "6.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU11C07",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tandel",
+      "en": "Tandel",
+      "slug": "tandel-lu11c07"
+    },
+    "code": {
+      "id": "LU11C07",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU11",
+      "level": 1,
+      "name": {
+        "local": "Vianden",
+        "en": "Vianden",
+        "slug": "vianden-lu11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU11",
+        "level": 1,
+        "name": {
+          "local": "Vianden",
+          "en": "Vianden",
+          "slug": "vianden-lu11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.911",
+      "lon": "6.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "LU11C01",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vianden",
+      "en": "Vianden",
+      "slug": "vianden-lu11c01"
+    },
+    "code": {
+      "id": "LU11C01",
+      "iso": null
+    },
+    "parent": {
+      "id": "LU11",
+      "level": 1,
+      "name": {
+        "local": "Vianden",
+        "en": "Vianden",
+        "slug": "vianden-lu11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "LU11",
+        "level": 1,
+        "name": {
+          "local": "Vianden",
+          "en": "Vianden",
+          "slug": "vianden-lu11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.935",
+      "lon": "6.209"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

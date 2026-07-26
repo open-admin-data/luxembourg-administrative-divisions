@@ -1,0 +1,35 @@
+# Luxembourg Administrative Divisions — Full Reference
+
+> Last updated: 2026-07-26. License: CC-BY-4.0.
+
+## Per-Canton Data Files
+
+- [Diekirch](https://github.com/open-admin-data/luxembourg-administrative-divisions/blob/main/docs/llms-full/diekirch-lu01.txt) — 0 communes
+- [Grevenmacher](https://github.com/open-admin-data/luxembourg-administrative-divisions/blob/main/docs/llms-full/grevenmacher-lu02.txt) — 7 communes
+- [Luxembourg](https://github.com/open-admin-data/luxembourg-administrative-divisions/blob/main/docs/llms-full/luxembourg-lu03.txt) — 5 communes
+- [Wiltz](https://github.com/open-admin-data/luxembourg-administrative-divisions/blob/main/docs/llms-full/wiltz-lu04.txt) — 9 communes
+- [Redange](https://github.com/open-admin-data/luxembourg-administrative-divisions/blob/main/docs/llms-full/redange-lu05.txt) — 10 communes
+- [Capellen](https://github.com/open-admin-data/luxembourg-administrative-divisions/blob/main/docs/llms-full/capellen-lu06.txt) — 9 communes
+- [Esch-sur-Alzette](https://github.com/open-admin-data/luxembourg-administrative-divisions/blob/main/docs/llms-full/esch-sur-alzette-lu07.txt) — 14 communes
+- [Mersch](https://github.com/open-admin-data/luxembourg-administrative-divisions/blob/main/docs/llms-full/mersch-lu08.txt) — 14 communes
+- [Remich](https://github.com/open-admin-data/luxembourg-administrative-divisions/blob/main/docs/llms-full/remich-lu09.txt) — 14 communes
+- [Echternach](https://github.com/open-admin-data/luxembourg-administrative-divisions/blob/main/docs/llms-full/echternach-lu10.txt) — 8 communes
+- [Vianden](https://github.com/open-admin-data/luxembourg-administrative-divisions/blob/main/docs/llms-full/vianden-lu11.txt) — 7 communes
+- [Clervaux](https://github.com/open-admin-data/luxembourg-administrative-divisions/blob/main/docs/llms-full/clervaux-lu12.txt) — 5 communes
+
+## Summary
+
+| Canton | Communes | 
+|---|---|
+| Diekirch | 0 | 
+| Grevenmacher | 7 | 
+| Luxembourg | 5 | 
+| Wiltz | 9 | 
+| Redange | 10 | 
+| Capellen | 9 | 
+| Esch-sur-Alzette | 14 | 
+| Mersch | 14 | 
+| Remich | 14 | 
+| Echternach | 8 | 
+| Vianden | 7 | 
+| Clervaux | 5 | 

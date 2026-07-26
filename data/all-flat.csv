@@ -1,0 +1,14 @@
+# Data from Open Admin Data (https://openadmindata.org/lu/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/luxembourg-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.canton,children_count.commune,zip_codes,geo.lat,geo.lon,source_url
+LU01,1,Canton,Canton,Diekirch,Diekirch,diekirch-lu01,LU01,,,,,,0,,49.959,5.974,https://openadmindata.org/lu/cantons/diekirch-lu01/
+LU02,1,Canton,Canton,Grevenmacher,Grevenmacher,grevenmacher-lu02,LU02,,,,,,7,,49.732,6.354,https://openadmindata.org/lu/cantons/grevenmacher-lu02/
+LU03,1,Canton,Canton,Luxembourg,Luxembourg,luxembourg-lu03,LU03,,,,,,5,,49.609,6.059,https://openadmindata.org/lu/cantons/luxembourg-lu03/
+LU04,1,Canton,Canton,Wiltz,Wiltz,wiltz-lu04,LU04,,,,,,9,,49.941,5.954,https://openadmindata.org/lu/cantons/wiltz-lu04/
+LU05,1,Canton,Canton,Redange,Redange,redange-lu05,LU05,,,,,,10,,49.797,5.886,https://openadmindata.org/lu/cantons/redange-lu05/
+LU06,1,Canton,Canton,Capellen,Capellen,capellen-lu06,LU06,,,,,,9,,49.644,5.965,https://openadmindata.org/lu/cantons/capellen-lu06/
+LU07,1,Canton,Canton,Esch-sur-Alzette,Esch-sur-Alzette,esch-sur-alzette-lu07,LU07,,,,,,14,,49.518,6.029,https://openadmindata.org/lu/cantons/esch-sur-alzette-lu07/
+LU08,1,Canton,Canton,Mersch,Mersch,mersch-lu08,LU08,,,,,,14,,49.752,6.117,https://openadmindata.org/lu/cantons/mersch-lu08/
+LU09,1,Canton,Canton,Remich,Remich,remich-lu09,LU09,,,,,,14,,49.539,6.312,https://openadmindata.org/lu/cantons/remich-lu09/
+LU10,1,Canton,Canton,Echternach,Echternach,echternach-lu10,LU10,,,,,,8,,49.793,6.358,https://openadmindata.org/lu/cantons/echternach-lu10/
+LU11,1,Canton,Canton,Vianden,Vianden,vianden-lu11,LU11,,,,,,7,,49.933,6.15,https://openadmindata.org/lu/cantons/vianden-lu11/
+LU12,1,Canton,Canton,Clervaux,Clervaux,clervaux-lu12,LU12,,,,,,5,,50.083,6.03,https://openadmindata.org/lu/cantons/clervaux-lu12/

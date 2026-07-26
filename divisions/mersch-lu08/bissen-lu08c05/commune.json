@@ -1,0 +1,45 @@
+{
+  "id": "LU08C05",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Bissen",
+    "en": "Bissen",
+    "slug": "bissen-lu08c05"
+  },
+  "code": {
+    "id": "LU08C05",
+    "iso": null
+  },
+  "parent": {
+    "id": "LU08",
+    "level": 1,
+    "name": {
+      "local": "Mersch",
+      "en": "Mersch",
+      "slug": "mersch-lu08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LU08",
+      "level": 1,
+      "name": {
+        "local": "Mersch",
+        "en": "Mersch",
+        "slug": "mersch-lu08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.788",
+    "lon": "6.069"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "LU06C04",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Kopstal",
+    "en": "Kopstal",
+    "slug": "kopstal-lu06c04"
+  },
+  "code": {
+    "id": "LU06C04",
+    "iso": null
+  },
+  "parent": {
+    "id": "LU06",
+    "level": 1,
+    "name": {
+      "local": "Capellen",
+      "en": "Capellen",
+      "slug": "capellen-lu06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LU06",
+      "level": 1,
+      "name": {
+        "local": "Capellen",
+        "en": "Capellen",
+        "slug": "capellen-lu06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.664",
+    "lon": "6.073"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "LU08C07",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Fischbach",
+    "en": "Fischbach",
+    "slug": "fischbach-lu08c07"
+  },
+  "code": {
+    "id": "LU08C07",
+    "iso": null
+  },
+  "parent": {
+    "id": "LU08",
+    "level": 1,
+    "name": {
+      "local": "Mersch",
+      "en": "Mersch",
+      "slug": "mersch-lu08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LU08",
+      "level": 1,
+      "name": {
+        "local": "Mersch",
+        "en": "Mersch",
+        "slug": "mersch-lu08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.74",
+    "lon": "6.187"
+  },
+  "metadata": {},
+  "source": {}
+}

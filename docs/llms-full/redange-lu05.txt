@@ -1,0 +1,59 @@
+# Redange — Luxembourg Administrative Divisions
+
+> 10 communes
+> Code: LU05
+> Coordinates: 49.797, 5.886
+> Last updated: 2026-07-26. License: CC-BY-4.0.
+
+## Communes
+
+### Beckerich
+
+Code: LU05C04, Coordinates: 49.731, 5.887
+
+
+### Ell
+
+Code: LU05C03, Coordinates: 49.764, 5.857
+
+
+### Grosbous
+
+Code: LU05C01, Coordinates: 49.828, 5.967
+
+
+### Préizerdaul
+
+Code: LU05C10, Coordinates: 49.801, 5.93
+
+
+### Rambrouch
+
+Code: LU05C07, Coordinates: 49.831, 5.845
+
+
+### Redange/Attert
+
+Code: LU05C06, Coordinates: 49.766, 5.891
+
+
+### Saeul
+
+Code: LU05C08, Coordinates: 49.735, 5.974
+
+
+### Useldange
+
+Code: LU05C05, Coordinates: 49.77, 5.982
+
+
+### Vichten
+
+Code: LU05C09, Coordinates: 49.805, 6.004
+
+
+### Wahl
+
+Code: LU05C02, Coordinates: 49.837, 5.906
+
+

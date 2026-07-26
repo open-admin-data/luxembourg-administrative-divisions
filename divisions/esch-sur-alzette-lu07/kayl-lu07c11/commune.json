@@ -1,0 +1,45 @@
+{
+  "id": "LU07C11",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Kayl",
+    "en": "Kayl",
+    "slug": "kayl-lu07c11"
+  },
+  "code": {
+    "id": "LU07C11",
+    "iso": null
+  },
+  "parent": {
+    "id": "LU07",
+    "level": 1,
+    "name": {
+      "local": "Esch-sur-Alzette",
+      "en": "Esch-sur-Alzette",
+      "slug": "esch-sur-alzette-lu07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LU07",
+      "level": 1,
+      "name": {
+        "local": "Esch-sur-Alzette",
+        "en": "Esch-sur-Alzette",
+        "slug": "esch-sur-alzette-lu07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.486",
+    "lon": "6.043"
+  },
+  "metadata": {},
+  "source": {}
+}

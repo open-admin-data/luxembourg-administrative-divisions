@@ -1,0 +1,45 @@
+{
+  "id": "LU04C07",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Esch-sur-Sûre",
+    "en": "Esch-sur-Sûre",
+    "slug": "esch-sur-sure-lu04c07"
+  },
+  "code": {
+    "id": "LU04C07",
+    "iso": null
+  },
+  "parent": {
+    "id": "LU04",
+    "level": 1,
+    "name": {
+      "local": "Wiltz",
+      "en": "Wiltz",
+      "slug": "wiltz-lu04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LU04",
+      "level": 1,
+      "name": {
+        "local": "Wiltz",
+        "en": "Wiltz",
+        "slug": "wiltz-lu04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.911",
+    "lon": "5.936"
+  },
+  "metadata": {},
+  "source": {}
+}

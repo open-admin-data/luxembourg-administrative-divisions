@@ -1,0 +1,45 @@
+{
+  "id": "LU08C08",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ettelbruck",
+    "en": "Ettelbruck",
+    "slug": "ettelbruck-lu08c08"
+  },
+  "code": {
+    "id": "LU08C08",
+    "iso": null
+  },
+  "parent": {
+    "id": "LU08",
+    "level": 1,
+    "name": {
+      "local": "Mersch",
+      "en": "Mersch",
+      "slug": "mersch-lu08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "LU08",
+      "level": 1,
+      "name": {
+        "local": "Mersch",
+        "en": "Mersch",
+        "slug": "mersch-lu08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.833",
+    "lon": "6.083"
+  },
+  "metadata": {},
+  "source": {}
+}
