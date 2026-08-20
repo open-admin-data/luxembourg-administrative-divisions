@@ -11,9 +11,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-08-19 |
+| Last Updated | 2026-08-20 |
 | Website | [openadmindata.org/lu](https://openadmindata.org/lu/) |
 | API | [openadmindata.org/api/lu](https://openadmindata.org/api/lu/) |
+| Flag | [PNG](https://onlygames.me/flags-png/lu/) · [SVG](https://onlygames.me/flags-svg/lu/) · [PDF](https://onlygames.me/flags-pdf/lu/) |
 | National Anthem | [🎵 Listen & Download Luxembourg National Anthem MP3](https://onlygames.me/national-anthems/lu/) |
 
 ## Browse by Canton
